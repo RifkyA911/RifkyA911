@@ -1,7 +1,7 @@
 <h2>~ Hi there 👋 , I'm Rifky! ☕</h2>
 
 <p align="center">
-    <img src="_img/nyan_octocat.gif" alt="animation" style="width:200px;height:200px;"/>
+    <img src="_img/nyan_octocat.gif" alt="animation" style="width:170px;height:170px;"/>
     <!-- <img src="_img/hula_loop_octodex03.gif" alt="animation" style="width:200px;height:200px;"/> -->
 </p>
 <h4 align="center"><strong><img src="_img/git-neon.png" alt="git-neon" style="width:40px;height:40px;"/> "~  someone who loves a cat :cat:  ~"</strong></h4>
@@ -24,7 +24,7 @@
 
 - Advance Fullstack Web development
 - DevOps Cloud Computing
-- <img src="_img/tux.png" alt="tux linus" style="width:40px;height:40px;"/> Linux Enviroment
+- <p><img src="_img/tux.png" alt="tux linus" style="width:40px;height:40px;"/> Linux Enviroment</p>
 - Image Processing with AI Deep Learning
 - Smart IoT Developer
 - IT Network Developer
