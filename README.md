@@ -30,6 +30,8 @@ Some Programming Languages, Development Tools, and other things that I ever like
 <br><br>
 <details>
 <summary><strong>📖 Details</strong></summary>
+<br>
+<br>
 <table>
     <tr>
         <td align="center" width="96" height="96">
@@ -229,6 +231,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
 <details>
 <summary><strong>:eyes: View:</strong></summary>
 <p>
+<br>
     <img src="https://img.shields.io/badge/OS-Windows11-blue?&logo=windows11" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/CPU-Ryzen-red?&logo=tools" />
@@ -239,6 +242,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
 ### Stats:
 
 <p>
+<br>
     <a href="https://github.com/RifkyA911">
         <img src="_img\github.png" width="15" height="15" alt="Github" /">
     </a>&nbsp;<strong>RifkyA911</strong>
@@ -259,6 +263,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
 
 <details>
 <summary><strong> E-mail:</strong></summary>
+<br>
 <p>📩&nbsp;rifkyakhmad911@gmail.com</p>
 </details>
 
