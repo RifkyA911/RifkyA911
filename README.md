@@ -1,6 +1,6 @@
 <h2>Hi there 👋 , I'm Rifky! ☕</h2>
 
-<p style="text-align:right">
+<p style="text-align:center">
     <img src="_img/nyan_octocat.gif" alt="animation" style="width:200px;height:200px;"/>
     <a>"a Person who loves a cat :cat:"</a>
 </p>
@@ -9,14 +9,14 @@
 
 📃 I'm currently interested to learning:
 
-- :: image processing with deep learning
+- image processing with deep learning
 
 <h3 id="Perform">💻 Basic Skills :</h3>
 Tools, languages, and other things that I like to work with.
 <br><br>
 <table>
     <tr>
-        <td align="center" width="85" height="85" style="padding:10px 10px">
+        <td align="center" width="85" height="85">
             <a href="Perform">
                 <img src="_img\js.png" width="48" height="48" alt="JS" /">
             </a>
@@ -46,13 +46,6 @@ Tools, languages, and other things that I like to work with.
         </td>
         <td align="center" width="85" height="85">
             <a href="Perform">
-                <img src="_img\c-sharp.png" width="48" height="48" alt="C#" /">
-            </a>
-            <br>
-            C#&nbsp;
-        </td>
-        <td align="center" width="85" height="85">
-            <a href="Perform">
                 <img src="_img\dart.png" width="48" height="48" alt="Dart" /">
             </a>
             <br>
@@ -71,6 +64,20 @@ Tools, languages, and other things that I like to work with.
             </a>
             <br>
             Golang&nbsp;
+        </td>
+        <td align="center" width="85" height="85">
+            <a href="Perform">
+                <img src="_img\c-sharp.png" width="48" height="48" alt="C#" /">
+            </a>
+            <br>
+            C#&nbsp;
+        </td>
+        <td align="center" width="85" height="85">
+            <a href="Perform">
+                <img src="_img\java.png" width="48" height="48" alt="Java" /">
+            </a>
+            <br>
+            Java&nbsp;
         </td>
     </tr>
     <tr>
