@@ -13,13 +13,13 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
 </p>
+</details>
 
 <p align="center">
-    <img src="_img/merge.png" alt="animation" style="width:100px;height:100px;"/>
+    <img src="_img/git-neon.png" alt="animation" style="width:50px;height:50px;"/>
 </p>
-<text><strong>Let's building skills with the team!</strong></text>
+<text align="center"><strong>Let's building skills with the team!</strong></text>
 
-</details>
 📃 I'm currently interested to learning:
 
 - Advance Fullstack Web development
