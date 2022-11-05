@@ -35,6 +35,43 @@ Tools, languages, and other things that I like to work with.
             <br>
             C#&nbsp;
         </td>
+        <td align="center" width="75" height="75">
+            <a href="Perform">
+                <img src="_img\c-.png" width="48" height="48" alt="C++" /">
+            </a>
+            <br>
+            C++&nbsp;Arduino
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="75" height="75">
+            <a href="Perform">
+                <img src="_img\bootsrap.png" width="48" height="48" alt="Bootsrap" /">
+            </a>
+            <br>
+            Bootsrap
+        </td>
+        <td align="center" width="75" height="75">
+            <a href="Perform">
+                <img src="_img\c-.png" width="48" height="48" alt="Laravel" /">
+            </a>
+            <br>
+            Laravel&nbsp;
+        </td>
+        <td align="center" width="75" height="75">
+            <a href="Perform">
+                <img src="_img\codeigniter.png" width="48" height="48" alt="Codeigniter" /">
+            </a>
+            <br>
+            Codeigniter&nbsp;
+        </td>
+        <td align="center" width="75" height="75">
+            <a href="Perform">
+                <img src="_img\vue.png" width="48" height="48" alt="Vue JS" /">
+            </a>
+            <br>
+            Vue&nbsp;JS
+        </td>
     </tr>
     <tr>
         <td align="center" width="75" height="75" style="background:#303030">
