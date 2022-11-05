@@ -1,6 +1,6 @@
 <h2>Hi there 👋 , I'm Rifky! ☕</h2>
 
-<p style="text-align:center">
+<p align="center">
     <img src="_img/nyan_octocat.gif" alt="animation" style="width:200px;height:200px;"/>
     <a>"a Person who loves a cat :cat:"</a>
 </p>
@@ -9,10 +9,12 @@
 
 📃 I'm currently interested to learning:
 
-- image processing with deep learning
-
+- Advance fullstack Web development
+- Linux Enviroment
+- Image processing with AI deep learning
+- Network penetration
 <h3 id="Perform">💻 Basic Skills :</h3>
-Tools, languages, and other things that I like to work with.
+Programming Languages, Development Tools, and other things that I ever like to use work with.
 <br><br>
 <table>
     <tr>
@@ -57,13 +59,6 @@ Tools, languages, and other things that I like to work with.
             </a>
             <br>
             Flutter&nbsp;
-        </td>
-        <td align="center" width="85" height="85">
-            <a href="Perform">
-                <img src="_img\golang.png" width="48" height="48" alt="Golang" /">
-            </a>
-            <br>
-            Golang&nbsp;
         </td>
         <td align="center" width="85" height="85">
             <a href="Perform">
@@ -160,9 +155,14 @@ Tools, languages, and other things that I like to work with.
             <br>
             Powershell
         </td>
-
+        <td align="center" width="85" height="85">
+            <a href="Perform">
+                <img src="_img\telegram.png" width="48" height="48" alt="Telegram" /">
+            </a>
+            <br>
+            Telegram&nbsp;Bot
+        </td>
     </tr>
-
 </table>
 
 ### Tools:
