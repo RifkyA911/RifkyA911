@@ -8,6 +8,7 @@
 
 <hr>
 
+<p align="center"><strong>(>‿◠)✌</strong></p>
 <p align="center"><strong>Let's building skills with creating the awesome team!</strong></p>
 
 📃 I'm currently interested to learning:
@@ -270,7 +271,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
 </p>
 </details>
 
-### (>‿◠) Stats:
+### 🎓 Stats:
 
 <details>
 <summary><strong>:trophy: Github Stats</strong></summary>
