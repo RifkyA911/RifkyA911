@@ -237,7 +237,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
 <p>
     <a href="https://github.com/RifkyA911">
         <img src="_img\github.png" width="25" height="25" alt="Github" /">
-    </a>
+    </a>&nbsp;&nbsp;<strong>RifkyA911</strong>
 </p>
 <!-- <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
