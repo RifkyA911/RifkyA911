@@ -258,7 +258,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
 ### Let's connect!
 
 <details>
-<summary><strong>:eyes: E-mail:</strong></summary>
+<summary><strong> E-mail:</strong></summary>
 <p>📩&nbsp;rifkyakhmad911@gmail.com</p>
 </details>
 
