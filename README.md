@@ -2,7 +2,7 @@
 
 <!--
 **RifkyA911/RifkyA911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img src=”https://kanokano-anime.com/assets/img/2nd-visual.jpg”>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
