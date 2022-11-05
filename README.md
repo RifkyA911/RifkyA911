@@ -11,6 +11,7 @@
             <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" style="width:50; height:50">
             Flutter
         </td>
+    </tr>
 </table>
 
 <p>
