@@ -12,11 +12,14 @@
 <summary><strong>:trophy: Github Stats</strong></summary>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyA911&layout=compact" height="180" />
 </p>
+
+![](https://raw.githubusercontent.com/RifkyA911/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/RifkyA911/github-stats-transparent/output/generated/overview.svg)
 
 </details>
 📃 I'm currently interested to learning:
+
 - Advance Fullstack Web development
 - DevOps Cloud Computing
 - Linux Enviroment
@@ -24,6 +27,7 @@
 - Smart IoT Developer
 - IT Network Developer
 - Blender Enthusiast
+
 <h3 id="Perform">💻 Basic Knowledge Skills :</h3>
 Programming Languages, Development Tools, and other things that I ever like to use work with.
 <br><br>
