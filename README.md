@@ -15,13 +15,7 @@
 </p>
 </details>
 
-<p align="center">
-    <img src="_img/tux.png" alt="tux" width="40" height="40"/>
-    <a href="https://github.com/RifkyA911">
-        <img src="_img\github.png" width="40" height="40" alt="Github"/>
-    </a>&nbsp;
-</p>
-<p align="center"><strong>Let's building skills with the team!</strong></p>
+<p align="center"><strong>Let's building skills with creating the awesome team!</strong></p>
 
 📃 I'm currently interested to learning:
 
@@ -286,7 +280,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
 ### Stats:
 
 <p>
--   <strong>RifkyA911</strong>
+- RifkyA911
 </p>
 <!-- <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
