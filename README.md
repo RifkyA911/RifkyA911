@@ -240,8 +240,8 @@ Some Programming Languages, Development Tools, and other things that I ever like
 
 <p>
     <a href="https://github.com/RifkyA911">
-        <img src="_img\github.png" width="20" height="20" alt="Github" /">
-    </a>&nbsp;&nbsp;<strong>RifkyA911</strong>
+        <img src="_img\github.png" width="15" height="15" alt="Github" /">
+    </a>&nbsp;<strong>RifkyA911</strong>
 </p>
 <!-- <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
