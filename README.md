@@ -37,12 +37,12 @@ Tools, languages, and other things that I like to work with.
         </td>
     </tr>
     <tr>
-        <td align="center" width="75" height="75">
+        <td align="center" width="75" height="75" style="background:#303030">
             <a href="Perform">
-                <img src="_img\docker.png" width="48" height="48" alt="Docker" /">
+                <img src="_img\elearning.png" width="48" height="48" alt="Tools" /">
             </a>
             <br>
-            <h3 id="Tools">🔧 Tools :</h3>&nbsp;
+            Tools :
         </td>
         <td align="center" width="75" height="75">
             <a href="Perform">
