@@ -228,12 +228,17 @@ Some Programming Languages, Development Tools, and other things that I ever like
 <p>
     <img src="https://img.shields.io/badge/OS-Windows11-blue?&logo=windows11" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/CPU-Ryzen-red?&logo=tools" />
+    <img src="https://img.shields.io/badge/GPU-Nvidia-green?&logo=nvidia" />
 </p>
 
 ### Stats:
 
-<img src="\_img\github.png" width="25" height="25" alt="Github" /">
-
+<p>
+    <a href="https://github.com/RifkyA911">
+        <img src="\_img\github.png" width="25" height="25" alt="Github" /">
+    </a>
+</p>
 <!-- <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on RPA </br>
@@ -248,6 +253,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
 
 ### Let's connect!
 
+- :mail: rifkyakhmad911@gmail.com
 <!--
 **bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -261,4 +267,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
