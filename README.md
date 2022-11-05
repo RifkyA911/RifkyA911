@@ -16,24 +16,45 @@
         </td>
         <td align="center" width="96" height="96">
             <a href="Perform">
-                <img src="_img\php.png" width="48" height="48" alt="JS" /">
+                <img src="_img\php.png" width="48" height="48" alt="PHP" /">
             </a>
             <br><br>
             PHP&nbsp;
         </td>
         <td align="center" width="96" height="96">
             <a href="Perform">
-                <img src="_img\phyton.png" width="48" height="48" alt="JS" /">
+                <img src="_img\python.png" width="48" height="48" alt="PY" /">
             </a>
             <br><br>
             Phyton&nbsp;
         </td>
         <td align="center" width="96" height="96">
             <a href="Perform">
-                <img src="_img\C-sharp.png" width="48" height="48" alt="JS" /">
+                <img src="_img\c-sharp.png" width="48" height="48" alt="C#" /">
             </a>
             <br><br>
             C#&nbsp;
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="Perform">
+                <img src="_img\docker.png" width="48" height="48" alt="Docker" /">
+            </a>
+            <br><br>
+            Docker&nbsp;
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="Perform">
+                <img src="_img\cmd.png" width="48" height="48" alt="Shell" /">
+            </a>
+            <br><br>
+            Power&nbsp;Shell
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="Perform">
+                <img src="_img\merge.png" width="48" height="48" alt="Git" /">
+            </a>
+            <br><br>
+            Git
         </td>
     </tr>
 </table>
