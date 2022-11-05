@@ -26,7 +26,7 @@
 - Blender Enthusiast
 
 <h3 id="Perform">💻 Basic Knowledge Skills :</h3>
-Programming Languages, Development Tools, and other things that I ever like to use work with.
+Some Programming Languages, Development Tools, and other things that I ever like to use work with.
 <br><br>
 <details>
 <table>
@@ -102,6 +102,13 @@ Programming Languages, Development Tools, and other things that I ever like to u
             </a>
             <br>
             Laravel&nbsp;
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#Perform">
+                <img src="_img\jupyter.png" width="48" height="48" alt="Jupyter Notebook" /">
+            </a>
+            <br>
+            Jupyter<BR>Notebook
         </td>
         <td align="center" width="96" height="96">
             <a href="#Perform">
@@ -193,6 +200,13 @@ Programming Languages, Development Tools, and other things that I ever like to u
     <tr>
         <td align="center" width="96" height="96">
             <a href="#Perform">
+                <img src="_img\blender.png" width="48" height="48" alt="Blender" /">
+            </a>
+            <br>
+            Blender
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#Perform">
                 <img src="_img\ubuntu.png" width="48" height="48" alt="Ubuntu" /">
             </a>
             <br>
@@ -212,13 +226,13 @@ Programming Languages, Development Tools, and other things that I ever like to u
 ### Tools:
 
 <p>
-    <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
-    <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/OS-Windows11-blue?&logo=windows11" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
 
 ### Stats:
+
+<img src="\_img\github.png" width="25" height="25" alt="Github" /">
 
 <!-- <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
