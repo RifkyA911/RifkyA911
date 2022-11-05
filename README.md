@@ -2,61 +2,62 @@
 
 📃 I'm currently learning:
 
-<h3 id="Perform">:cat: Basic Skills :</h3>
+<h3 id="Perform">💻 Basic Skills :</h3>
 <blackquote> Tools, languages, and other things that I like to work with. </blackquote>
 <br><br>
 <table>
-    <tr>
-        <td align="center" width="96" height="96">
+    <tr style="padding-y:5px">
+        <td align="center" width="75" height="75">
             <a href="Perform">
                 <img src="_img\js.png" width="48" height="48" alt="JS" /">
             </a>
-            <br><br>
+            <br>
             Javascript&nbsp;
         </td>
-        <td align="center" width="96" height="96">
+        <td align="center" width="75" height="75">
             <a href="Perform">
                 <img src="_img\php.png" width="48" height="48" alt="PHP" /">
             </a>
-            <br><br>
+            <br>
             PHP&nbsp;
         </td>
-        <td align="center" width="96" height="96">
+        <td align="center" width="75" height="75">
             <a href="Perform">
                 <img src="_img\python.png" width="48" height="48" alt="PY" /">
             </a>
-            <br><br>
+            <br>
             Phyton&nbsp;
         </td>
-        <td align="center" width="96" height="96">
+        <td align="center" width="75" height="75">
             <a href="Perform">
                 <img src="_img\c-sharp.png" width="48" height="48" alt="C#" /">
             </a>
-            <br><br>
+            <br>
             C#&nbsp;
         </td>
     </tr>
-    Tools :
+</table>
+<table>
     <tr>
-        <td align="center" width="96" height="96">
+        <td align="center" width="75" height="75">
             <a href="Perform">
                 <img src="_img\docker.png" width="48" height="48" alt="Docker" /">
             </a>
-            <br><br>
+            <br>
             Docker&nbsp;
         </td>
-        <td align="center" width="96" height="96">
+        <td align="center" width="75" height="75">
             <a href="Perform">
                 <img src="_img\cmd.png" width="48" height="48" alt="Shell" /">
             </a>
-            <br><br>
+            <br>
             Power&nbsp;Shell
         </td>
-        <td align="center" width="96" height="96">
+        <td align="center" width="75" height="75">
             <a href="Perform">
                 <img src="_img\merge.png" width="48" height="48" alt="Git" /">
             </a>
-            <br><br>
+            <br>
             Git
         </td>
     </tr>
