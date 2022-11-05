@@ -270,7 +270,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
 </p>
 </details>
 
-### <strong></></strong> Stats:
+### (>‿◠) Stats:
 
 <details>
 <summary><strong>:trophy: Github Stats</strong></summary>
