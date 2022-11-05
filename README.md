@@ -235,6 +235,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
     <img src="https://img.shields.io/badge/GPU-Nvidia-green?&logo=nvidia" />
 </p>
 </details>
+
 ### Stats:
 
 <p>
