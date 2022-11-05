@@ -90,6 +90,13 @@ Some Programming Languages, Development Tools, and other things that I ever like
             <br>
             Java&nbsp;
         </td>
+        <td align="center" width="96" height="96">
+            <a href="#Perform">
+                <img src="_img\golang2.png" width="48" height="48" alt="Golang" /">
+            </a>
+            <br>
+            Golang&nbsp;
+        </td>
     </tr>
     <tr>
         <td align="center" width="96" height="96">
