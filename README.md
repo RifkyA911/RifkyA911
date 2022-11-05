@@ -4,12 +4,12 @@
     <img src="_img/nyan_octocat.gif" alt="animation" style="width:200px;height:200px;"/>
     <!-- <img src="_img/hula_loop_octodex03.gif" alt="animation" style="width:200px;height:200px;"/> -->
 </p>
-<h4 align="center" text="bold">"someone who loves a cat :cat:"</h4>
+<h4 align="center" text="bold">"~  someone who loves a cat :cat:  ~"</h4>
 
 <hr>
 
-📃 I'm currently interested to learning:
-
+<details>
+<summary>📃 I'm currently interested to learning:</summary>
 - Advance Fullstack Web development
 - DevOps Cloud Computing
 - Linux Enviroment
@@ -17,6 +17,7 @@
 - Smart IoT Developer
 - IT Network Developer
 - Blender Enthusiast
+</details>
 <h3 id="Perform">💻 Basic Knowledge Skills :</h3>
 Programming Languages, Development Tools, and other things that I ever like to use work with.
 <br><br>
@@ -228,14 +229,6 @@ Programming Languages, Development Tools, and other things that I ever like to u
 </p>
 
 ### Let's connect!
-
-<p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
-    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
-</p>
 
 <!--
 **bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
