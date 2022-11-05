@@ -4,15 +4,15 @@
     <img src="_img/nyan_octocat.gif" alt="animation" style="width:200px;height:200px;"/>
     <!-- <img src="_img/hula_loop_octodex03.gif" alt="animation" style="width:200px;height:200px;"/> -->
 </p>
-<h4 align="center" text="bold">"~  someone who loves a cat :cat:  ~"</h4>
+<h4 align="center"><strong>"~  someone who loves a cat :cat:  ~"</strong></h4>
 
 <hr>
 
 <details>
-<summary>:trophy: Github Stats</summary>
+<summary><strong>:trophy: Github Stats</strong></summary>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyA911&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyA911&layout=compact" height="180" />
 </p>
 
 </details>
