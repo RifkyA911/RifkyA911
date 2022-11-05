@@ -4,17 +4,21 @@
 
 <h3 id="Perform">:cat: Perform</h3>
 > Tools, languages, and other things that I like to work with.
+<br><br>
 <table>
     <tr>
         <td align="center" width="96" height="96">
             <a href="Perform">
                 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="48" height="48" alt="JS" /">
             </a>
+            <hr>
             <br>Javascript&nbsp;
         </td>
     </tr>
 </table>
-
+> Quote here.
+>
+> -- <cite>Benjamin Franklin</cite>
 <p>
     <img src="_img/nyan_octocat.gif" alt="animation" style="width:120px;height:120px;"/>
 </p>
