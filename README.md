@@ -256,7 +256,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
 </table>
 </details>
 
-### My PC Enviroment:
+### 🌿 My PC Enviroment:
 
 <details>
 <summary><strong>:eyes: View:</strong></summary>
@@ -270,7 +270,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
 </p>
 </details>
 
-### Stats:
+### <strong></></strong> Stats:
 
 <details>
 <summary><strong>:trophy: Github Stats</strong></summary>
@@ -294,7 +294,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
     - ⚡ Fun fact: ... </br>
 </details> -->
 
-### Let's connect!
+### 📱 Let's connect!
 
 <details>
 <summary><strong> E-mail:</strong></summary>
