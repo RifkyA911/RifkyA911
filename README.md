@@ -236,7 +236,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
 
 <p>
     <a href="https://github.com/RifkyA911">
-        <img src="\_img\github.png" width="25" height="25" alt="Github" /">
+        <img src="_img\github.png" width="25" height="25" alt="Github" /">
     </a>
 </p>
 <!-- <details>
@@ -253,7 +253,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
 
 ### Let's connect!
 
-- :mail: rifkyakhmad911@gmail.com
+- 📩&nbsp;rifkyakhmad911@gmail.com
 <!--
 **bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
