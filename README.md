@@ -23,56 +23,56 @@ Programming Languages, Development Tools, and other things that I ever like to u
 <table>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\js.png" width="48" height="48" alt="JS" /">
             </a>
             <br>
             Javascript&nbsp;
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\php.png" width="48" height="48" alt="PHP" /">
             </a>
             <br>
             PHP&nbsp;
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\python.png" width="48" height="48" alt="PY" /">
             </a>
             <br>
             Phyton&nbsp;
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\c-.png" width="48" height="48" alt="C++" /">
             </a>
             <br>
             C++&nbsp;
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\dart.png" width="48" height="48" alt="Dart" /">
             </a>
             <br>
             Dart&nbsp;
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\flutter.png" width="48" height="48" alt="Flutter" /">
             </a>
             <br>
             Flutter&nbsp;
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\c-sharp.png" width="48" height="48" alt="C#" /">
             </a>
             <br>
             C#&nbsp;
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\java.png" width="48" height="48" alt="Java" /">
             </a>
             <br>
@@ -81,42 +81,42 @@ Programming Languages, Development Tools, and other things that I ever like to u
     </tr>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\bootsrap.png" width="48" height="48" alt="Bootsrap" /">
             </a>
             <br>
             Bootsrap
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\Laravel.png" width="48" height="48" alt="Laravel" /">
             </a>
             <br>
             Laravel&nbsp;
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\codeigniter.png" width="48" height="48" alt="Codeigniter" /">
             </a>
             <br>
             Codeigniter&nbsp;
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\nodejs.png" width="48" height="48" alt="Node JS" /">
             </a>
             <br>
             Node&nbsp;JS
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\vue.png" width="48" height="48" alt="Vue JS" /">
             </a>
             <br>
             Vue&nbsp;JS
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\react.png" width="48" height="48" alt="Vue JS" /">
             </a>
             <br>
@@ -125,42 +125,42 @@ Programming Languages, Development Tools, and other things that I ever like to u
     </tr>
     <tr>
         <td align="center" width="96" height="96" style="background:#303030">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\vscode-neon.png" width="48" height="48" alt="VSCODE" /">
             </a>
             <br>
             VS&nbsp;Code
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\git.png" width="48" height="48" alt="Git" /">
             </a>
             <br>
             Git
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\console.png" width="48" height="48" alt="Shell" /">
             </a>
             <br>
             Powershell
         </td>
         <td align="center" width="96" height="96" style="background:#303030">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\arduino.png" width="48" height="48" alt="Arduino" /">
             </a>
             <br>
             Arduino
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\docker.png" width="48" height="48" alt="Docker" /">
             </a>
             <br>
             Docker&nbsp;
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\firebase.png" width="48" height="48" alt="Firebase" /">
             </a>
             <br>
@@ -174,7 +174,7 @@ Programming Languages, Development Tools, and other things that I ever like to u
             MongoDB&nbsp;
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\telegram.png" width="48" height="48" alt="Telegram" /">
             </a>
             <br>
@@ -183,14 +183,14 @@ Programming Languages, Development Tools, and other things that I ever like to u
     </tr>
     <tr>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\ubuntu.png" width="48" height="48" alt="Ubuntu" /">
             </a>
             <br>
             WSL&nbsp;Ubuntu
         </td>
         <td align="center" width="96" height="96">
-            <a href="Perform">
+            <a href="#Perform">
                 <img src="_img\kali.png" width="48" height="48" alt="Kali" /">
             </a>
             <br>
@@ -223,8 +223,8 @@ Programming Languages, Development Tools, and other things that I ever like to u
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyA911&layout=compact" height=180 />
 </p>
 
 ### Let's connect!
