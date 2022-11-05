@@ -2,19 +2,22 @@
 
 <p align="center">
     <img src="_img/nyan_octocat.gif" alt="animation" style="width:200px;height:200px;"/>
-    <img src="_img/hula_loop_octodex03.gif" alt="animation" style="width:200px;height:200px;"/>
+    <!-- <img src="_img/hula_loop_octodex03.gif" alt="animation" style="width:200px;height:200px;"/> -->
 </p>
-<p>"a Person who loves a cat :cat:"</p>
+<h4 align="center">"someone who loves a cat :cat:"</h4>
 
 <hr>
 
 📃 I'm currently interested to learning:
 
-- Advance fullstack Web development
+- Advance Fullstack Web development
+- DevOps Cloud Computing
 - Linux Enviroment
-- Image processing with AI deep learning
-- Network penetration
-<h3 id="Perform">💻 Basic Skills :</h3>
+- Image Processing with AI Deep Learning
+- Smart IoT Developer
+- IT Network Developer
+- Blender Enthusiast
+<h3 id="Perform">💻 Basic Knowledge Skills :</h3>
 Programming Languages, Development Tools, and other things that I ever like to use work with.
 <br><br>
 <table>
@@ -100,6 +103,13 @@ Programming Languages, Development Tools, and other things that I ever like to u
         </td>
         <td align="center" width="85" height="85">
             <a href="Perform">
+                <img src="_img\nodejs.png" width="48" height="48" alt="Node JS" /">
+            </a>
+            <br>
+            Node&nbsp;JS
+        </td>
+        <td align="center" width="85" height="85">
+            <a href="Perform">
                 <img src="_img\vue.png" width="48" height="48" alt="Vue JS" /">
             </a>
             <br>
@@ -158,7 +168,7 @@ Programming Languages, Development Tools, and other things that I ever like to u
         </td>
         <td align="center" width="85" height="85">
             <a href="https://www.mongodb.com/">
-                <img src="_img\firebase.png" width="48" height="48" alt="MongoDB" /">
+                <img src="_img\mongodb.png" width="48" height="48" alt="MongoDB" /">
             </a>
             <br>
             MongoDB&nbsp;
@@ -169,6 +179,22 @@ Programming Languages, Development Tools, and other things that I ever like to u
             </a>
             <br>
             Telegram&nbsp;Bot
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="85" height="85">
+            <a href="Perform">
+                <img src="_img\ubuntu.png" width="48" height="48" alt="Ubuntu" /">
+            </a>
+            <br>
+            WSL&nbsp;Ubuntu
+        </td>
+        <td align="center" width="85" height="85">
+            <a href="Perform">
+                <img src="_img\kali.png" width="48" height="48" alt="Kali" /">
+            </a>
+            <br>
+            OS&nbsp;Kali
         </td>
     </tr>
 </table>
