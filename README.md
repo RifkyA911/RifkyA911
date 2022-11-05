@@ -4,7 +4,7 @@
     <img src="_img/nyan_octocat.gif" alt="animation" style="width:200px;height:200px;"/>
     <!-- <img src="_img/hula_loop_octodex03.gif" alt="animation" style="width:200px;height:200px;"/> -->
 </p>
-<h4 align="center">"someone who loves a cat :cat:"</h4>
+<h4 align="center" text="bold">"someone who loves a cat :cat:"</h4>
 
 <hr>
 
