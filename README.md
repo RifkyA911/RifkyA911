@@ -1,12 +1,13 @@
 # Hi there 👋 , I'm Rifky!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
 
 📃 I'm currently learning:
+
 <p>
-    <img src="[https://img.shields.io/badge/OS-MacOS-blue?&logo=apple](https://octodex.github.com/images/hula_loop_octodex03.gif)" />
+    <img src="_img/nyan_octocat.gif" alt="animation" style="width:120px;height:120px;"/>
 </p>
 
 ### Tools:
+
 <p>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
@@ -16,6 +17,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 </p>
 
 ### Stats:
+
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on RPA </br>
@@ -33,6 +35,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 </p>
 
 ### Let's connect!
+
 <p>
     <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
     <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
