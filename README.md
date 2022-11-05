@@ -129,6 +129,13 @@ Some Programming Languages, Development Tools, and other things that I ever like
         </td>
         <td align="center" width="96" height="96">
             <a href="#Perform">
+                <img src="_img\mysql.png" width="48" height="48" alt="MySQL" /">
+            </a>
+            <br>
+            MySQL&nbsp;
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#Perform">
                 <img src="_img\nodejs.png" width="48" height="48" alt="Node JS" /">
             </a>
             <br>
@@ -171,19 +178,19 @@ Some Programming Languages, Development Tools, and other things that I ever like
             <br>
             Powershell
         </td>
+        <td align="center" width="96" height="96">
+            <a href="#Perform">
+                <img src="_img\colab.png" width="48" height="48" alt="Google Colab" /">
+            </a>
+            <br>
+            Google Colab
+        </td>
         <td align="center" width="96" height="96" style="background:#303030">
             <a href="#Perform">
                 <img src="_img\arduino.png" width="48" height="48" alt="Arduino" /">
             </a>
             <br>
             Arduino
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\mysql.png" width="48" height="48" alt="MySQL" /">
-            </a>
-            <br>
-            MySQL&nbsp;
         </td>
         <td align="center" width="96" height="96">
             <a href="#Perform">
