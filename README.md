@@ -150,6 +150,13 @@ Some Programming Languages, Development Tools, and other things that I ever like
     <tr>
         <td align="center" width="96" height="96">
             <a href="#Perform">
+                <img src="_img\aws.png" width="48" height="48" alt="AWS CLOUD" /">
+            </a>
+            <br>
+            AWS Cloud
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#Perform">
                 <img src="_img\colab.png" width="48" height="48" alt="Google Colab" /">
             </a>
             <br>
@@ -189,13 +196,6 @@ Some Programming Languages, Development Tools, and other things that I ever like
             </a>
             <br>
             Telegram Bot
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\kafka.png" width="48" height="48" alt="Kafka" /">
-            </a>
-            <br>
-            Kafka
         </td>
         <td align="center" width="96" height="96">
             <a href="#Perform">
@@ -273,10 +273,10 @@ Some Programming Languages, Development Tools, and other things that I ever like
 <p>
 <br>
     <img src="https://img.shields.io/badge/OS-Windows11-blue?&logo=windows11" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/OS-Linux-yellow?&logo=linux" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-cyan?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/CPU-Ryzen-red?&logo=tools" />
     <img src="https://img.shields.io/badge/GPU-Nvidia-green?&logo=nvidia" />
-    <img src="_img/tux.png" alt="tux linus" style="width:40px;height:40px;"/> 
 </p>
 </details>
 
