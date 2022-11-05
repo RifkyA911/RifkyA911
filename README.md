@@ -1,11 +1,31 @@
-<h4>Hi there 👋 , I'm Rifky!</h4>
+<h2>Hi there 👋 , I'm Rifky!</h2>
 
 📃 I'm currently learning:
 
-<h5 id="Perform">:cat Perform</h5>
-
+<h3 id="Perform">:cat" Perform</h3>
+> Tools, languages, and other things that I like to work with.
 <table>
     <tr>
+        <td align="center" width="96">
+            <a href="Perform">
+            <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" style="width:50; height:50">
+            Flutter
+        </td>
+        <td align="center" width="96">
+            <a href="Perform">
+            <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" style="width:50; height:50">
+            Flutter
+        </td>
+        <td align="center" width="96">
+            <a href="Perform">
+            <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" style="width:50; height:50">
+            Flutter
+        </td>
+        <td align="center" width="96">
+            <a href="Perform">
+            <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" style="width:50; height:50">
+            Flutter
+        </td>
         <td align="center" width="96">
             <a href="Perform">
             <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" style="width:50; height:50">
