@@ -16,7 +16,7 @@
 </details>
 
 <p align="center">
-    <img src="_img/git-neon.png" alt="git-neon" style="width:40px;height:40px;"/><img src="_img/cmd.png" alt="cmd" style="width:50px;height:50px;"/>
+    <img src="_img/git-neon.png" alt="git-neon" style="width:25px;height:25px;"/>
 </p>
 <p align="center"><strong>Let's building skills with the team!</strong></p>
 
@@ -24,7 +24,7 @@
 
 - Advance Fullstack Web development
 - DevOps Cloud Computing
-- <i src="_img/tux.png" alt="tux linus" style="width:40px;height:40px;"></i> Linux Enviroment
+- Linux Enviroment
 - Image Processing with AI Deep Learning
 - Smart IoT Developer
 - IT Network Developer
@@ -276,6 +276,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/CPU-Ryzen-red?&logo=tools" />
     <img src="https://img.shields.io/badge/GPU-Nvidia-green?&logo=nvidia" />
+    <img src="_img/tux.png" alt="tux linus" style="width:40px;height:40px;"/> 
 </p>
 </details>
 
