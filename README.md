@@ -224,20 +224,22 @@ Some Programming Languages, Development Tools, and other things that I ever like
 </table>
 </details>
 
-### Tools:
+### My Enviroment:
 
+<details>
+<summary><strong>:eyes: View:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/OS-Windows11-blue?&logo=windows11" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/CPU-Ryzen-red?&logo=tools" />
     <img src="https://img.shields.io/badge/GPU-Nvidia-green?&logo=nvidia" />
 </p>
-
+</details>
 ### Stats:
 
 <p>
     <a href="https://github.com/RifkyA911">
-        <img src="_img\github.png" width="25" height="25" alt="Github" /">
+        <img src="_img\github.png" width="20" height="20" alt="Github" /">
     </a>&nbsp;&nbsp;<strong>RifkyA911</strong>
 </p>
 <!-- <details>
