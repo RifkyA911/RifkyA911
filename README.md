@@ -29,6 +29,7 @@
 Some Programming Languages, Development Tools, and other things that I ever like to use work with.
 <br><br>
 <details>
+<summary><strong>📖 Details</strong></summary>
 <table>
     <tr>
         <td align="center" width="96" height="96">
