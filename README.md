@@ -1,5 +1,12 @@
 <h2>Hi there 👋 , I'm Rifky!</h2>
 
+<p center>
+    <img src="_img/nyan_octocat.gif" alt="animation" style="width:200px;height:200px;"/>
+    <a>"a Person who like a cat :cat:"</a>
+</p>
+
+<hr>
+
 📃 I'm currently learning:
 
 <h3 id="Perform">💻 Basic Skills :</h3>
@@ -53,7 +60,7 @@ Tools, languages, and other things that I like to work with.
         </td>
         <td align="center" width="85" height="85">
             <a href="Perform">
-                <img src="_img\c-.png" width="48" height="48" alt="Laravel" /">
+                <img src="_img\laravel.png" width="48" height="48" alt="Laravel" /">
             </a>
             <br>
             Laravel&nbsp;
@@ -71,6 +78,13 @@ Tools, languages, and other things that I like to work with.
             </a>
             <br>
             Vue&nbsp;JS
+        </td>
+        <td align="center" width="85" height="85">
+            <a href="Perform">
+                <img src="_img\react.png" width="48" height="48" alt="Vue JS" /">
+            </a>
+            <br>
+            React&nbsp;JS
         </td>
     </tr>
     <tr>
@@ -90,7 +104,7 @@ Tools, languages, and other things that I like to work with.
         </td>
         <td align="center" width="85" height="85">
             <a href="Perform">
-                <img src="_img\cmd.png" width="48" height="48" alt="Shell" /">
+                <img src="_img\console.png" width="48" height="48" alt="Shell" /">
             </a>
             <br>
             Powershell
@@ -104,10 +118,6 @@ Tools, languages, and other things that I like to work with.
         </td>
     </tr>
 </table>
-
-<p>
-    <img src="_img/nyan_octocat.gif" alt="animation" style="width:120px;height:120px;"/>
-</p>
 
 ### Tools:
 
