@@ -14,8 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
 </p>
 
-![](https://raw.githubusercontent.com/RifkyA911/github-stats-transparent/output/generated/languages.svg)
-![](https://raw.githubusercontent.com/RifkyA911/github-stats-transparent/output/generated/overview.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyA911&layout=compact)](https://github.com/RifkyA911/github-readme-stats)
 
 </details>
 📃 I'm currently interested to learning:
