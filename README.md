@@ -16,7 +16,7 @@
 </details>
 
 <p align="center">
-    <img src="_img/git-neon.png" alt="git-neon" style="width:25px;height:25px;"/>
+    <img src="_img/tux.png" alt="tux" style="width:40px;height:40px;"/>
 </p>
 <p align="center"><strong>Let's building skills with the team!</strong></p>
 
@@ -141,6 +141,13 @@ Some Programming Languages, Development Tools, and other things that I ever like
         </td>
         <td align="center" width="96" height="96">
             <a href="#Perform">
+                <img src="_img\nodejs.png" width="48" height="48" alt="Node JS" /">
+            </a>
+            <br>
+            Node&nbsp;JS
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#Perform">
                 <img src="_img\react.png" width="48" height="48" alt="Vue JS" /">
             </a>
             <br>
@@ -175,13 +182,6 @@ Some Programming Languages, Development Tools, and other things that I ever like
             </a>
             <br>
             MySQL&nbsp;
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\nodejs.png" width="48" height="48" alt="Node JS" /">
-            </a>
-            <br>
-            Node&nbsp;JS
         </td>
         <td align="center" width="96" height="96">
             <a href="https://www.mongodb.com/">
@@ -274,7 +274,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
 <br>
     <img src="https://img.shields.io/badge/OS-Windows11-blue?&logo=windows11" />
     <img src="https://img.shields.io/badge/OS-Linux-yellow?&logo=linux" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-cyan?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/CPU-Ryzen-red?&logo=tools" />
     <img src="https://img.shields.io/badge/GPU-Nvidia-green?&logo=nvidia" />
 </p>
