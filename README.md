@@ -1,6 +1,11 @@
 # Hi there 👋 , I'm Rifky!
 Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
 
+📃 I'm currently learning:
+<p>
+    <img src="[https://img.shields.io/badge/OS-MacOS-blue?&logo=apple](https://octodex.github.com/images/hula_loop_octodex03.gif)" />
+</p>
+
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
