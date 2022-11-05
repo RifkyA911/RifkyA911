@@ -1,13 +1,15 @@
-<h2>Hi there 👋 , I'm Rifky!</h2>
+<h2>Hi there 👋 , I'm Rifky! ☕</h2>
 
-<p center>
+<p style="text-align:right">
     <img src="_img/nyan_octocat.gif" alt="animation" style="width:200px;height:200px;"/>
-    <a>"a Person who like a cat :cat:"</a>
+    <a>"a Person who loves a cat :cat:"</a>
 </p>
 
 <hr>
 
-📃 I'm currently learning:
+📃 I'm currently interested to learning:
+
+- :: image processing with deep learning
 
 <h3 id="Perform">💻 Basic Skills :</h3>
 Tools, languages, and other things that I like to work with.
@@ -37,6 +39,13 @@ Tools, languages, and other things that I like to work with.
         </td>
         <td align="center" width="85" height="85">
             <a href="Perform">
+                <img src="_img\c-.png" width="48" height="48" alt="C++" /">
+            </a>
+            <br>
+            C++&nbsp;
+        </td>
+        <td align="center" width="85" height="85">
+            <a href="Perform">
                 <img src="_img\c-sharp.png" width="48" height="48" alt="C#" /">
             </a>
             <br>
@@ -44,10 +53,24 @@ Tools, languages, and other things that I like to work with.
         </td>
         <td align="center" width="85" height="85">
             <a href="Perform">
-                <img src="_img\c-.png" width="48" height="48" alt="C++" /">
+                <img src="_img\dart.png" width="48" height="48" alt="Dart" /">
             </a>
             <br>
-            C++&nbsp;
+            Dart&nbsp;
+        </td>
+        <td align="center" width="85" height="85">
+            <a href="Perform">
+                <img src="_img\flutter.png" width="48" height="48" alt="Flutter" /">
+            </a>
+            <br>
+            Flutter&nbsp;
+        </td>
+        <td align="center" width="85" height="85">
+            <a href="Perform">
+                <img src="_img\golang.png" width="48" height="48" alt="Golang" /">
+            </a>
+            <br>
+            Golang&nbsp;
         </td>
     </tr>
     <tr>
@@ -60,7 +83,7 @@ Tools, languages, and other things that I like to work with.
         </td>
         <td align="center" width="85" height="85">
             <a href="Perform">
-                <img src="_img\laravel.png" width="48" height="48" alt="Laravel" /">
+                <img src="_img\Laravel.png" width="48" height="48" alt="Laravel" /">
             </a>
             <br>
             Laravel&nbsp;
@@ -90,10 +113,31 @@ Tools, languages, and other things that I like to work with.
     <tr>
         <td align="center" width="85" height="85" style="background:#303030">
             <a href="Perform">
+                <img src="_img\vscode-neon.png" width="48" height="48" alt="VSCODE" /">
+            </a>
+            <br>
+            VS&nbsp;Code
+        </td>
+        <td align="center" width="85" height="85" style="background:#303030">
+            <a href="Perform">
                 <img src="_img\arduino.png" width="48" height="48" alt="Arduino" /">
             </a>
             <br>
             Arduino
+        </td>
+        <td align="center" width="85" height="85">
+            <a href="Perform">
+                <img src="_img\git.png" width="48" height="48" alt="Git" /">
+            </a>
+            <br>
+            Git
+        </td>
+        <td align="center" width="85" height="85">
+            <a href="Perform">
+                <img src="_img\firebase.png" width="48" height="48" alt="Firebase" /">
+            </a>
+            <br>
+            Firebase&nbsp;
         </td>
         <td align="center" width="85" height="85">
             <a href="Perform">
@@ -109,14 +153,9 @@ Tools, languages, and other things that I like to work with.
             <br>
             Powershell
         </td>
-        <td align="center" width="85" height="85">
-            <a href="Perform">
-                <img src="_img\git.png" width="48" height="48" alt="Git" /">
-            </a>
-            <br>
-            Git
-        </td>
+
     </tr>
+
 </table>
 
 ### Tools:
