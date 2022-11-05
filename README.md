@@ -14,8 +14,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyA911&layout=compact)](https://github.com/RifkyA911/github-readme-stats)
-
 </details>
 📃 I'm currently interested to learning:
 
@@ -30,6 +28,7 @@
 <h3 id="Perform">💻 Basic Knowledge Skills :</h3>
 Programming Languages, Development Tools, and other things that I ever like to use work with.
 <br><br>
+<details>
 <table>
     <tr>
         <td align="center" width="96" height="96">
@@ -188,7 +187,7 @@ Programming Languages, Development Tools, and other things that I ever like to u
                 <img src="_img\telegram.png" width="48" height="48" alt="Telegram" /">
             </a>
             <br>
-            Telegram&nbsp;Bot
+            Telegram<BR>Bot
         </td>
     </tr>
     <tr>
@@ -208,6 +207,7 @@ Programming Languages, Development Tools, and other things that I ever like to u
         </td>
     </tr>
 </table>
+</details>
 
 ### Tools:
 
@@ -216,12 +216,11 @@ Programming Languages, Development Tools, and other things that I ever like to u
     <img src="https://img.shields.io/badge/Code-Swift-blue?&logo=swift" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/bagusfe" />
 </p>
 
 ### Stats:
 
-<details>
+<!-- <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on RPA </br>
     - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
@@ -231,7 +230,7 @@ Programming Languages, Development Tools, and other things that I ever like to u
     - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
-</details>
+</details> -->
 
 ### Let's connect!
 
