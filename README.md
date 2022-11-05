@@ -2,34 +2,21 @@
 
 📃 I'm currently learning:
 
-<h3 id="Perform">:cat" Perform</h3>
+<h3 id="Perform">:cat: Perform</h3>
 > Tools, languages, and other things that I like to work with.
 <table>
     <tr>
-        <td align="center" width="96">
+        <td align="center" width="96" height="96">
             <a href="Perform">
-            <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" style="width:50; height:50">
-            Flutter
+                <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" style="width:50; height:50">
+            </a>
+            <br>Javascript&nbsp;
         </td>
         <td align="center" width="96">
             <a href="Perform">
-            <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" style="width:50; height:50">
-            Flutter
-        </td>
-        <td align="center" width="96">
-            <a href="Perform">
-            <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" style="width:50; height:50">
-            Flutter
-        </td>
-        <td align="center" width="96">
-            <a href="Perform">
-            <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" style="width:50; height:50">
-            Flutter
-        </td>
-        <td align="center" width="96">
-            <a href="Perform">
-            <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" style="width:50; height:50">
-            Flutter
+                <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" style="width:50; height:50">
+            </a>
+            <br>Flutter&nbsp;
         </td>
     </tr>
 </table>
