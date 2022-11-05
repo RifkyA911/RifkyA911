@@ -7,65 +7,65 @@ Tools, languages, and other things that I like to work with.
 <br><br>
 <table>
     <tr>
-        <td align="center" width="75" height="75" style="padding-top:10px">
+        <td align="center" width="85" height="85" style="padding:10px 10px">
             <a href="Perform">
                 <img src="_img\js.png" width="48" height="48" alt="JS" /">
             </a>
             <br>
             Javascript&nbsp;
         </td>
-        <td align="center" width="75" height="75">
+        <td align="center" width="85" height="85">
             <a href="Perform">
                 <img src="_img\php.png" width="48" height="48" alt="PHP" /">
             </a>
             <br>
             PHP&nbsp;
         </td>
-        <td align="center" width="75" height="75">
+        <td align="center" width="85" height="85">
             <a href="Perform">
                 <img src="_img\python.png" width="48" height="48" alt="PY" /">
             </a>
             <br>
             Phyton&nbsp;
         </td>
-        <td align="center" width="75" height="75">
+        <td align="center" width="85" height="85">
             <a href="Perform">
                 <img src="_img\c-sharp.png" width="48" height="48" alt="C#" /">
             </a>
             <br>
             C#&nbsp;
         </td>
-        <td align="center" width="75" height="75">
+        <td align="center" width="85" height="85">
             <a href="Perform">
                 <img src="_img\c-.png" width="48" height="48" alt="C++" /">
             </a>
             <br>
-            C++&nbsp;Arduino
+            C++&nbsp;
         </td>
     </tr>
     <tr>
-        <td align="center" width="75" height="75">
+        <td align="center" width="85" height="85">
             <a href="Perform">
                 <img src="_img\bootsrap.png" width="48" height="48" alt="Bootsrap" /">
             </a>
             <br>
             Bootsrap
         </td>
-        <td align="center" width="75" height="75">
+        <td align="center" width="85" height="85">
             <a href="Perform">
                 <img src="_img\c-.png" width="48" height="48" alt="Laravel" /">
             </a>
             <br>
             Laravel&nbsp;
         </td>
-        <td align="center" width="75" height="75">
+        <td align="center" width="85" height="85">
             <a href="Perform">
                 <img src="_img\codeigniter.png" width="48" height="48" alt="Codeigniter" /">
             </a>
             <br>
             Codeigniter&nbsp;
         </td>
-        <td align="center" width="75" height="75">
+        <td align="center" width="85" height="85">
             <a href="Perform">
                 <img src="_img\vue.png" width="48" height="48" alt="Vue JS" /">
             </a>
@@ -74,30 +74,30 @@ Tools, languages, and other things that I like to work with.
         </td>
     </tr>
     <tr>
-        <td align="center" width="75" height="75" style="background:#303030">
+        <td align="center" width="85" height="85" style="background:#303030">
             <a href="Perform">
-                <img src="_img\elearning.png" width="48" height="48" alt="Tools" /">
+                <img src="_img\arduino.png" width="48" height="48" alt="Arduino" /">
             </a>
             <br>
-            Tools :
+            Arduino
         </td>
-        <td align="center" width="75" height="75">
+        <td align="center" width="85" height="85">
             <a href="Perform">
                 <img src="_img\docker.png" width="48" height="48" alt="Docker" /">
             </a>
             <br>
             Docker&nbsp;
         </td>
-        <td align="center" width="75" height="75">
+        <td align="center" width="85" height="85">
             <a href="Perform">
                 <img src="_img\cmd.png" width="48" height="48" alt="Shell" /">
             </a>
             <br>
             Powershell
         </td>
-        <td align="center" width="75" height="75">
+        <td align="center" width="85" height="85">
             <a href="Perform">
-                <img src="_img\merge.png" width="48" height="48" alt="Git" /">
+                <img src="_img\git.png" width="48" height="48" alt="Git" /">
             </a>
             <br>
             Git
