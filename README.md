@@ -16,10 +16,10 @@
 </details>
 
 <p align="center">
-    <img src="_img/tux.png" alt="tux" style="width:40px;height:40px;"/>
+    <img src="_img/tux.png" alt="tux" width="40" height="40"/>
     <a href="https://github.com/RifkyA911">
-        <img src="_img\github.png" width="15" height="15" alt="Github" /">
-    </a>&nbsp;<strong>RifkyA911</strong>
+        <img src="_img\github.png" width="40" height="40" alt="Github"/>
+    </a>&nbsp;
 </p>
 <p align="center"><strong>Let's building skills with the team!</strong></p>
 
@@ -286,7 +286,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
 ### Stats:
 
 <p>
-    -
+-   <strong>RifkyA911</strong>
 </p>
 <!-- <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
