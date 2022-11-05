@@ -4,7 +4,7 @@
     <img src="_img/nyan_octocat.gif" alt="animation" style="width:200px;height:200px;"/>
     <!-- <img src="_img/hula_loop_octodex03.gif" alt="animation" style="width:200px;height:200px;"/> -->
 </p>
-<h4 align="center"><strong>"~  someone who loves a cat :cat:  ~"</strong></h4>
+<h4 align="center"><strong><img src="_img/git-neon.png" alt="git-neon" style="width:40px;height:40px;"/> "~  someone who loves a cat :cat:  ~"</strong></h4>
 
 <hr>
 
@@ -16,15 +16,15 @@
 </details>
 
 <p align="center">
-    <img src="_img/git-neon.png" alt="animation" style="width:50px;height:50px;"/>
+    <img src="_img/cmd.png" alt="cmd" style="width:50px;height:50px;"/>
 </p>
-<text align="center"><strong>Let's building skills with the team!</strong></text>
+<p align="center"><strong>Let's building skills with the team!</strong></p>
 
 📃 I'm currently interested to learning:
 
 - Advance Fullstack Web development
 - DevOps Cloud Computing
-- Linux Enviroment
+- <img src="_img/tux.png" alt="tux linus" style="width:40px;height:40px;"/> Linux Enviroment
 - Image Processing with AI Deep Learning
 - Smart IoT Developer
 - IT Network Developer
