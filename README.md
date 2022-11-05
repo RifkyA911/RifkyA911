@@ -8,13 +8,6 @@
 
 <hr>
 
-<details>
-<summary><strong>:trophy: Github Stats</strong></summary>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-</p>
-</details>
-
 <p align="center"><strong>Let's building skills with creating the awesome team!</strong></p>
 
 📃 I'm currently interested to learning:
@@ -279,9 +272,16 @@ Some Programming Languages, Development Tools, and other things that I ever like
 
 ### Stats:
 
+<details>
+<summary><strong>:trophy: Github Stats</strong></summary>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+</p>
 <p>
 - RifkyA911
 </p>
+</details>
+
 <!-- <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working on RPA </br>
