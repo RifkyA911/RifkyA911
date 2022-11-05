@@ -257,7 +257,11 @@ Some Programming Languages, Development Tools, and other things that I ever like
 
 ### Let's connect!
 
-- 📩&nbsp;rifkyakhmad911@gmail.com
+<details>
+<summary><strong>:eyes: E-mail:</strong></summary>
+<p>📩&nbsp;rifkyakhmad911@gmail.com</p>
+</details>
+
 <!--
 **bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
