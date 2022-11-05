@@ -118,7 +118,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
                 <img src="_img\jupyter.png" width="48" height="48" alt="Jupyter Notebook" /">
             </a>
             <br>
-            Jupyter<BR>Notebook
+            Jupyter Notebook
         </td>
         <td align="center" width="96" height="96">
             <a href="#Perform">
@@ -157,47 +157,12 @@ Some Programming Languages, Development Tools, and other things that I ever like
         </td>
     </tr>
     <tr>
-        <td align="center" width="96" height="96" style="background:#303030">
-            <a href="#Perform">
-                <img src="_img\vscode-neon.png" width="48" height="48" alt="VSCODE" /">
-            </a>
-            <br>
-            VS&nbsp;Code
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\git.png" width="48" height="48" alt="Git" /">
-            </a>
-            <br>
-            Git
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\console.png" width="48" height="48" alt="Shell" /">
-            </a>
-            <br>
-            Powershell
-        </td>
         <td align="center" width="96" height="96">
             <a href="#Perform">
                 <img src="_img\colab.png" width="48" height="48" alt="Google Colab" /">
             </a>
             <br>
             Google Colab
-        </td>
-        <td align="center" width="96" height="96" style="background:#303030">
-            <a href="#Perform">
-                <img src="_img\arduino.png" width="48" height="48" alt="Arduino" /">
-            </a>
-            <br>
-            Arduino
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\docker.png" width="48" height="48" alt="Docker" /">
-            </a>
-            <br>
-            Docker&nbsp;
         </td>
         <td align="center" width="96" height="96">
             <a href="#Perform">
@@ -218,16 +183,51 @@ Some Programming Languages, Development Tools, and other things that I ever like
                 <img src="_img\telegram.png" width="48" height="48" alt="Telegram" /">
             </a>
             <br>
-            Telegram<BR>Bot
+            Telegram Bot
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#Perform">
+                <img src="_img\kafka.png" width="48" height="48" alt="Kafka" /">
+            </a>
+            <br>
+            Kafka
         </td>
     </tr>
     <tr>
+        <td align="center" width="96" height="96" style="background:#303030">
+            <a href="#Perform">
+                <img src="_img\vscode-neon.png" width="48" height="48" alt="VSCODE" /">
+            </a>
+            <br>
+            VS&nbsp;Code
+        </td>
         <td align="center" width="96" height="96">
             <a href="#Perform">
                 <img src="_img\blender.png" width="48" height="48" alt="Blender" /">
             </a>
             <br>
             Blender
+        </td>
+                <td align="center" width="96" height="96">
+            <a href="#Perform">
+                <img src="_img\git.png" width="48" height="48" alt="Git" /">
+            </a>
+            <br>
+            Git
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#Perform">
+                <img src="_img\console.png" width="48" height="48" alt="Shell" /">
+            </a>
+            <br>
+            Powershell
+        </td>
+        <td align="center" width="96" height="96">
+            <a href="#Perform">
+                <img src="_img\docker.png" width="48" height="48" alt="Docker" /">
+            </a>
+            <br>
+            Docker&nbsp;
         </td>
         <td align="center" width="96" height="96">
             <a href="#Perform">
@@ -243,11 +243,18 @@ Some Programming Languages, Development Tools, and other things that I ever like
             <br>
             OS&nbsp;Kali
         </td>
+        <td align="center" width="96" height="96" style="background:#303030">
+            <a href="#Perform">
+                <img src="_img\arduino.png" width="48" height="48" alt="Arduino" /">
+            </a>
+            <br>
+            Arduino
+        </td>
     </tr>
 </table>
 </details>
 
-### My Enviroment:
+### My PC Enviroment:
 
 <details>
 <summary><strong>:eyes: View:</strong></summary>
@@ -263,7 +270,6 @@ Some Programming Languages, Development Tools, and other things that I ever like
 ### Stats:
 
 <p>
-<br>
     <a href="https://github.com/RifkyA911">
         <img src="_img\github.png" width="15" height="15" alt="Github" /">
     </a>&nbsp;<strong>RifkyA911</strong>
