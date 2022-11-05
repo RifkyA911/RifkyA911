@@ -1,6 +1,17 @@
-# Hi there 👋 , I'm Rifky!
+<h4>Hi there 👋 , I'm Rifky!</h4>
 
 📃 I'm currently learning:
+
+<h5 id="Perform">:cat Perform</h5>
+
+<table>
+    <tr>
+        <td align="center" width="96">
+            <a href="Perform">
+            <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" style="width:50; height:50">
+            Flutter
+        </td>
+</table>
 
 <p>
     <img src="_img/nyan_octocat.gif" alt="animation" style="width:120px;height:120px;"/>
