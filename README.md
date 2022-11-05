@@ -1,10 +1,10 @@
 <h2>~ Hi there 👋 , I'm Rifky! ☕</h2>
 
 <p align="center">
-    <img src="_img/nyan_octocat.gif" alt="animation" style="width:170px;height:170px;"/>
+    <img src="_img/nyan_octocat.gif" alt="animation" style="width:150px;height:150px;"/>
     <!-- <img src="_img/hula_loop_octodex03.gif" alt="animation" style="width:200px;height:200px;"/> -->
 </p>
-<h4 align="center"><strong><img src="_img/git-neon.png" alt="git-neon" style="width:40px;height:40px;"/> "~  someone who loves a cat :cat:  ~"</strong></h4>
+<h4 align="center"><strong>"~  someone who loves a cat :cat:  ~"</strong></h4>
 
 <hr>
 
@@ -16,7 +16,7 @@
 </details>
 
 <p align="center">
-    <img src="_img/cmd.png" alt="cmd" style="width:50px;height:50px;"/>
+    <img src="_img/git-neon.png" alt="git-neon" style="width:40px;height:40px;"/><img src="_img/cmd.png" alt="cmd" style="width:50px;height:50px;"/>
 </p>
 <p align="center"><strong>Let's building skills with the team!</strong></p>
 
@@ -24,7 +24,7 @@
 
 - Advance Fullstack Web development
 - DevOps Cloud Computing
-- <p><img src="_img/tux.png" alt="tux linus" style="width:40px;height:40px;"/> Linux Enviroment</p>
+- <i src="_img/tux.png" alt="tux linus" style="width:40px;height:40px;"></i> Linux Enviroment
 - Image Processing with AI Deep Learning
 - Smart IoT Developer
 - IT Network Developer
