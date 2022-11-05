@@ -17,6 +17,9 @@
 
 <p align="center">
     <img src="_img/tux.png" alt="tux" style="width:40px;height:40px;"/>
+    <a href="https://github.com/RifkyA911">
+        <img src="_img\github.png" width="15" height="15" alt="Github" /">
+    </a>&nbsp;<strong>RifkyA911</strong>
 </p>
 <p align="center"><strong>Let's building skills with the team!</strong></p>
 
@@ -275,7 +278,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
     <img src="https://img.shields.io/badge/OS-Windows11-blue?&logo=windows11" />
     <img src="https://img.shields.io/badge/OS-Linux-yellow?&logo=linux" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/CPU-Ryzen-red?&logo=tools" />
+    <img src="https://img.shields.io/badge/CPU-AMD%20Ryzen-red?&logo=tools" />
     <img src="https://img.shields.io/badge/GPU-Nvidia-green?&logo=nvidia" />
 </p>
 </details>
@@ -283,9 +286,7 @@ Some Programming Languages, Development Tools, and other things that I ever like
 ### Stats:
 
 <p>
-    <a href="https://github.com/RifkyA911">
-        <img src="_img\github.png" width="15" height="15" alt="Github" /">
-    </a>&nbsp;<strong>RifkyA911</strong>
+    -
 </p>
 <!-- <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
