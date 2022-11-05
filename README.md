@@ -1,9 +1,10 @@
-<h2>Hi there 👋 , I'm Rifky! ☕</h2>
+<h2>~ Hi there 👋 , I'm Rifky! ☕</h2>
 
 <p align="center">
     <img src="_img/nyan_octocat.gif" alt="animation" style="width:200px;height:200px;"/>
-    <a>"a Person who loves a cat :cat:"</a>
+    <img src="_img/hula_loop_octodex03.gif" alt="animation" style="width:200px;height:200px;"/>
 </p>
+<p>"a Person who loves a cat :cat:"</p>
 
 <hr>
 
@@ -120,13 +121,6 @@ Programming Languages, Development Tools, and other things that I ever like to u
             <br>
             VS&nbsp;Code
         </td>
-        <td align="center" width="85" height="85" style="background:#303030">
-            <a href="Perform">
-                <img src="_img\arduino.png" width="48" height="48" alt="Arduino" /">
-            </a>
-            <br>
-            Arduino
-        </td>
         <td align="center" width="85" height="85">
             <a href="Perform">
                 <img src="_img\git.png" width="48" height="48" alt="Git" /">
@@ -136,10 +130,17 @@ Programming Languages, Development Tools, and other things that I ever like to u
         </td>
         <td align="center" width="85" height="85">
             <a href="Perform">
-                <img src="_img\firebase.png" width="48" height="48" alt="Firebase" /">
+                <img src="_img\console.png" width="48" height="48" alt="Shell" /">
             </a>
             <br>
-            Firebase&nbsp;
+            Powershell
+        </td>
+        <td align="center" width="85" height="85" style="background:#303030">
+            <a href="Perform">
+                <img src="_img\arduino.png" width="48" height="48" alt="Arduino" /">
+            </a>
+            <br>
+            Arduino
         </td>
         <td align="center" width="85" height="85">
             <a href="Perform">
@@ -150,10 +151,17 @@ Programming Languages, Development Tools, and other things that I ever like to u
         </td>
         <td align="center" width="85" height="85">
             <a href="Perform">
-                <img src="_img\console.png" width="48" height="48" alt="Shell" /">
+                <img src="_img\firebase.png" width="48" height="48" alt="Firebase" /">
             </a>
             <br>
-            Powershell
+            Firebase&nbsp;
+        </td>
+        <td align="center" width="85" height="85">
+            <a href="https://www.mongodb.com/">
+                <img src="_img\firebase.png" width="48" height="48" alt="MongoDB" /">
+            </a>
+            <br>
+            MongoDB&nbsp;
         </td>
         <td align="center" width="85" height="85">
             <a href="Perform">
