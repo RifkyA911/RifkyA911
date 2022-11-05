@@ -3,11 +3,11 @@
 📃 I'm currently learning:
 
 <h3 id="Perform">💻 Basic Skills :</h3>
-<blackquote> Tools, languages, and other things that I like to work with. </blackquote>
+Tools, languages, and other things that I like to work with.
 <br><br>
 <table>
-    <tr style="padding-y:5px">
-        <td align="center" width="75" height="75">
+    <tr>
+        <td align="center" width="75" height="75" style="padding-top:10px">
             <a href="Perform">
                 <img src="_img\js.png" width="48" height="48" alt="JS" /">
             </a>
@@ -37,24 +37,29 @@
         </td>
     </tr>
 </table>
+
+<h3 id="Tools">🔧 Tools :</h3>
+Tools, languages, and other things that I like to work with.
+<br><br>
+
 <table>
     <tr>
         <td align="center" width="75" height="75">
-            <a href="Perform">
+            <a href="Tools">
                 <img src="_img\docker.png" width="48" height="48" alt="Docker" /">
             </a>
             <br>
             Docker&nbsp;
         </td>
         <td align="center" width="75" height="75">
-            <a href="Perform">
+            <a href="Tools">
                 <img src="_img\cmd.png" width="48" height="48" alt="Shell" /">
             </a>
             <br>
-            Power&nbsp;Shell
+            Powershell
         </td>
         <td align="center" width="75" height="75">
-            <a href="Perform">
+            <a href="Tools">
                 <img src="_img\merge.png" width="48" height="48" alt="Git" /">
             </a>
             <br>
