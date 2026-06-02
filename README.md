@@ -1,319 +1,110 @@
-<h2>~ Hi there 👋 , I'm Rifky! ☕</h2>
+<div align="center">
+  <img src="_img/nyan_octocat.gif" alt="Octocat" width="120" />
 
-<p align="center">
-    <img src="_img/nyan_octocat.gif" alt="animation" style="width:150px;height:150px;"/>
-    <!-- <img src="_img/hula_loop_octodex03.gif" alt="animation" style="width:200px;height:200px;"/> -->
-</p>
-<h4 align="center"><strong>"~  someone who loves a cat :cat:  ~"</strong></h4>
+  <h1>Rifky Akhmad F.</h1>
+  <p>
+    <strong>Fullstack Developer & IoT Enthusiast</strong>
+    <br />
+    <em>Building things that matter from web apps to embedded systems</em>
+  </p>
 
-<hr>
+  <p>
+    <a href="mailto:rifkyakhmad911@gmail.com"><img src="https://img.shields.io/badge/Email-rifkyakhmad911@gmail.com-D14836?logo=gmail" /></a>
+  </p>
+</div>
 
-<p align="center"><strong>(>‿◠)✌</strong></p>
-<p align="center"><strong>Let's building skills with creating the awesome team!</strong></p>
+---
 
-📃 I'm currently interested to learning:
+## About Me
 
-- Advance Fullstack Web development
-- DevOps Cloud Computing
-- Linux Enviroment
-- Image Processing with AI Deep Learning
-- Smart IoT Developer
-- IT Network Developer
-- Blender Enthusiast
+I am a passionate developer with experience across the full stack — from crafting REST APIs in **Go** and **Rust** to building interactive UIs with **Next.js** and **React**. I enjoy exploring new technologies, automating workflows, and occasionally tinkering with IoT hardware.
 
-<h3 id="Perform">💻 Basic Knowledge Skills :</h3>
-Some Programming Languages, Development Tools, and other things that I ever like to use work with.
-<br><br>
-<details>
-<summary><strong>📖 Details</strong></summary>
-<br>
-<br>
-<table>
-    <tr>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\js.png" width="48" height="48" alt="JS" /">
-            </a>
-            <br>
-            Javascript&nbsp;
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\php.png" width="48" height="48" alt="PHP" /">
-            </a>
-            <br>
-            PHP&nbsp;
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\python.png" width="48" height="48" alt="PY" /">
-            </a>
-            <br>
-            Phyton&nbsp;
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\c-.png" width="48" height="48" alt="C++" /">
-            </a>
-            <br>
-            C++&nbsp;
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\dart.png" width="48" height="48" alt="Dart" /">
-            </a>
-            <br>
-            Dart&nbsp;
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\flutter.png" width="48" height="48" alt="Flutter" /">
-            </a>
-            <br>
-            Flutter&nbsp;
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\c-sharp.png" width="48" height="48" alt="C#" /">
-            </a>
-            <br>
-            C#&nbsp;
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\java.png" width="48" height="48" alt="Java" /">
-            </a>
-            <br>
-            Java&nbsp;
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\golang2.png" width="48" height="48" alt="Golang" /">
-            </a>
-            <br>
-            Golang&nbsp;
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\bootsrap.png" width="48" height="48" alt="Bootsrap" /">
-            </a>
-            <br>
-            Bootsrap
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\Laravel.png" width="48" height="48" alt="Laravel" /">
-            </a>
-            <br>
-            Laravel&nbsp;
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\jupyter.png" width="48" height="48" alt="Jupyter Notebook" /">
-            </a>
-            <br>
-            Jupyter Notebook
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\codeigniter.png" width="48" height="48" alt="Codeigniter" /">
-            </a>
-            <br>
-            Codeigniter&nbsp;
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\vue.png" width="48" height="48" alt="Vue JS" /">
-            </a>
-            <br>
-            Vue&nbsp;JS
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\nodejs.png" width="48" height="48" alt="Node JS" /">
-            </a>
-            <br>
-            Node&nbsp;JS
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\react.png" width="48" height="48" alt="Vue JS" /">
-            </a>
-            <br>
-            React&nbsp;JS
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\aws.png" width="48" height="48" alt="AWS CLOUD" /">
-            </a>
-            <br>
-            AWS Cloud
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\colab.png" width="48" height="48" alt="Google Colab" /">
-            </a>
-            <br>
-            Google Colab
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\firebase.png" width="48" height="48" alt="Firebase" /">
-            </a>
-            <br>
-            Firebase&nbsp;
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\mysql.png" width="48" height="48" alt="MySQL" /">
-            </a>
-            <br>
-            MySQL&nbsp;
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="https://www.mongodb.com/">
-                <img src="_img\mongodb.png" width="48" height="48" alt="MongoDB" /">
-            </a>
-            <br>
-            MongoDB&nbsp;
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\telegram.png" width="48" height="48" alt="Telegram" /">
-            </a>
-            <br>
-            Telegram Bot
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\mosquitto.png" width="48" height="48" alt="Mosquito MQTT" /">
-            </a>
-            <br>
-            Mosquito MQTT
-        </td>
-    </tr>
-    <tr>
-        <td align="center" width="96" height="96" style="background:#303030">
-            <a href="#Perform">
-                <img src="_img\vscode-neon.png" width="48" height="48" alt="VSCODE" /">
-            </a>
-            <br>
-            VS&nbsp;Code
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\blender.png" width="48" height="48" alt="Blender" /">
-            </a>
-            <br>
-            Blender
-        </td>
-                <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\git.png" width="48" height="48" alt="Git" /">
-            </a>
-            <br>
-            Git
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\console.png" width="48" height="48" alt="Shell" /">
-            </a>
-            <br>
-            Powershell
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\docker.png" width="48" height="48" alt="Docker" /">
-            </a>
-            <br>
-            Docker&nbsp;
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\ubuntu.png" width="48" height="48" alt="Ubuntu" /">
-            </a>
-            <br>
-            WSL&nbsp;Ubuntu
-        </td>
-        <td align="center" width="96" height="96">
-            <a href="#Perform">
-                <img src="_img\kali.png" width="48" height="48" alt="Kali" /">
-            </a>
-            <br>
-            OS&nbsp;Kali
-        </td>
-        <td align="center" width="96" height="96" style="background:#303030">
-            <a href="#Perform">
-                <img src="_img\arduino.png" width="48" height="48" alt="Arduino" /">
-            </a>
-            <br>
-            Arduino
-        </td>
-    </tr>
-</table>
-</details>
+- Currently deepening skills in **TypeScript**, **Go**, and **Cloud Infrastructure**
+- Experienced with **Laravel**, **Bun**, **Hono.js**, and **Actix Web**
+- Interested in **AI integration**, **DevOps**, and **System Architecture**
+- Love open source and building tools that make life easier
 
-### 🌿 My PC Enviroment:
+---
 
-<details>
-<summary><strong>:eyes: View:</strong></summary>
-<p>
-<br>
-    <img src="https://img.shields.io/badge/OS-Windows11-blue?&logo=windows11" />
-    <img src="https://img.shields.io/badge/OS-Linux-yellow?&logo=linux" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/CPU-AMD%20Ryzen-red?&logo=tools" />
-    <img src="https://img.shields.io/badge/GPU-Nvidia-green?&logo=nvidia" />
-</p>
-</details>
+## Tech Stack
 
-### 🎓 Stats:
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff)
+![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=fff)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=fff)
 
-<details>
-<summary><strong>:trophy: Github Stats</strong></summary>
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-</p>
-<p>
-- RifkyA911
-</p>
-</details>
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 
-<!-- <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
-    - 🌱 I’m currently learning Python,SwiftUI and UIKit </br>
-    - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
-    - 🤔 I’m looking for help with master of programming. hehe </br>
-    - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
-</details> -->
+### Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff)
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
+![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=fff)
 
-### 📱 Let's connect!
+### Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)
 
-<details>
-<summary><strong> E-mail:</strong></summary>
-<br>
-<p>📩&nbsp;rifkyakhmad911@gmail.com</p>
-</details>
+### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=fff)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff)
 
-<!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+### Web and API
+- **Momentum** - AI-Powered Habit Tracker with Nuxt 4, Groq LLaMA, and GitHub-style heatmap
+- **Next.JS 16 Project Engine** - Production-ready template with React 19 and TypeScript
+- **Simple Inventory API** - Go-native REST API without frameworks
+- **Simple Ticketing System** - Rust-based ticketing with Tokio + SQLx + PostgreSQL
+
+### AI and Machine Learning
+- **Simple Gemini Chatbot API** - Google Gemini AI chatbot powered by Bun + Express
+- **Real-ESRGAN Video Upscaling** - Automated upscaling pipeline for Kaggle/Colab
+
+### Mobile and IoT
+- **InstaApp** - Full-stack social media clone (Laravel API + Next.js frontend)
+- **Web IOT Inkubator** - Real-time incubator monitoring with WebSocket
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&show_icons=true&hide_border=true&count_private=true&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyA911&layout=compact&hide_border=true&hide_title=true" height="150" />
+</div>
+
+---
+
+## Let's Connect
+
+- Email: **rifkyakhmad911@gmail.com**
+- GitHub: [RifkyA911](https://github.com/RifkyA911)
+
+---
+
+<div align="center">
+  <sub>Let's build something awesome together.</sub>
+</div>
