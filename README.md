@@ -38,7 +38,7 @@ I think beyond the syntax. **Business mindset** 💼 and **problem-solving** �
 
 I'm fully committed to every project I take on — I don't just write code, I take ownership. I see each feature through from concept to deployment, and I treat every codebase like it's my own.
 
-Saya aktif mendalami perkembangan teknologi terkini 🌐 — selalu update dengan framework, runtime, dan tools terbaru. 🏠 Daily driver: <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="16" /> Arch Linux · ☁️ experienced with VPS deployment & management.
+I actively explore the latest technology developments 🌐 — always keeping up with new frameworks, runtimes, and tools. 🏠 Daily driver: <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="16" /> Arch Linux · ☁️ experienced with VPS deployment & management.
 
 I'm constantly learning 🎯, researching new technologies 🔬, and running **experiments** 🧪 on the side. Whether it's a new framework, a different database, or a weird hardware project — I jump in and figure it out as I go.
 
