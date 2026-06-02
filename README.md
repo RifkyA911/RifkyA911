@@ -25,6 +25,8 @@ I think beyond the syntax. **Business mindset** 💼 and **problem-solving** �
 
 I'm constantly learning 🎯, researching new technologies 🔬, and running **experiments** 🧪 on the side. Whether it's a new framework, a different database, or a weird hardware project — I jump in and figure it out as I go.
 
+🤖 **AI Enthusiast & Integrator** — I experiment with LLMs, prompt engineering, and AI-powered tooling. I believe AI is not just the future — it's the present, and I'm actively building with it.
+
 ---
 
 ## 🎯 My Approach
@@ -90,82 +92,101 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
 
 <table>
   <tr>
-    <th colspan="10" align="center">Languages</th>
+    <th colspan="10" align="center" bgcolor="#F5F0FF">Languages</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" /><br/><sub>TypeScript</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" /><br/><sub>JavaScript</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/php/777BB4" width="36" /><br/><sub>PHP</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/go/00ADD8" width="36" /><br/><sub>Go</sub></td>
-    <td align="center">
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" /><br/><sub>TypeScript</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" /><br/><sub>JavaScript</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/php/777BB4" width="36" /><br/><sub>PHP</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/go/00ADD8" width="36" /><br/><sub>Go</sub></td>
+    <td align="center" bgcolor="#F5F0FF">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/CE422B">
         <img src="https://cdn.simpleicons.org/rust" width="36" />
       </picture><br/><sub>Rust</sub>
     </td>
-    <td align="center"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" /><br/><sub>Python</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="36" /><br/><sub>C++</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/dotnet/512BD4" width="36" /><br/><sub>C#</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/openjdk" width="36" /><br/><sub>Java</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/dart/0175C2" width="36" /><br/><sub>Dart</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" /><br/><sub>Python</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="36" /><br/><sub>C++</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/dotnet/512BD4" width="36" /><br/><sub>C#</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" /><br/><sub>Java</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/dart/0175C2" width="36" /><br/><sub>Dart</sub></td>
   </tr>
   <tr>
-    <th colspan="10" align="center">Frontend</th>
+    <th colspan="10" align="center" bgcolor="#F5F0FF">Frontend & Mobile</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" bgcolor="#F5F0FF">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF">
         <img src="https://cdn.simpleicons.org/nextdotjs" width="36" />
       </picture><br/><sub>Next.js</sub>
     </td>
-    <td align="center"><img src="https://cdn.simpleicons.org/react/61DAFB" width="36" /><br/><sub>React</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="36" /><br/><sub>Vue</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" /><br/><sub>Tailwind</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="36" /><br/><sub>Bootstrap</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/flutter/02569B" width="36" /><br/><sub>Flutter</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/react/61DAFB" width="36" /><br/><sub>React</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="36" /><br/><sub>Vue</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/nuxt/00DC82" width="36" /><br/><sub>Nuxt</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/svelte/FF3E00" width="36" /><br/><sub>Svelte</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/astro/BC52EE" width="36" /><br/><sub>Astro</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" /><br/><sub>Tailwind</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="36" /><br/><sub>Bootstrap</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/flutter/02569B" width="36" /><br/><sub>Flutter</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="36" /><br/><sub>React Native</sub></td>
   </tr>
   <tr>
-    <th colspan="10" align="center">Backend & Runtime</th>
+    <th colspan="10" align="center" bgcolor="#F5F0FF">Backend & Runtime</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="36" /><br/><sub>Laravel</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="36" /><br/><sub>Node.js</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/bun" width="36" /><br/><sub>Bun</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/hono/E36002" width="36" /><br/><sub>Hono</sub></td>
-    <td align="center">
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="36" /><br/><sub>Laravel</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="36" /><br/><sub>Node.js</sub></td>
+    <td align="center" bgcolor="#F5F0FF">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bun/FFFFFF">
+        <img src="https://cdn.simpleicons.org/bun" width="36" />
+      </picture><br/><sub>Bun</sub>
+    </td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/hono/E36002" width="36" /><br/><sub>Hono</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://elysiajs.com/assets/elysia.svg" width="36" /><br/><sub>Elysia</sub></td>
+    <td align="center" bgcolor="#F5F0FF">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF">
         <img src="https://cdn.simpleicons.org/express" width="36" />
       </picture><br/><sub>Express</sub>
     </td>
-    <td align="center"><img src="https://cdn.simpleicons.org/codeigniter/EF4223" width="36" /><br/><sub>CI</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="36" /><br/><sub>NestJS</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/codeigniter/EF4223" width="36" /><br/><sub>CI</sub></td>
   </tr>
   <tr>
-    <th colspan="10" align="center">Database</th>
+    <th colspan="10" align="center" bgcolor="#F5F0FF">Database & Message Broker</th>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" bgcolor="#F5F0FF">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/FFFFFF">
         <img src="https://cdn.simpleicons.org/mysql/4479A1" width="36" />
       </picture><br/><sub>MySQL</sub>
     </td>
-    <td align="center"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="36" /><br/><sub>MongoDB</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" /><br/><sub>PostgreSQL</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36" /><br/><sub>Oracle</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/clickhouse/FFCC01" width="36" /><br/><sub>ClickHouse</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="36" /><br/><sub>MongoDB</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" /><br/><sub>PostgreSQL</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36" /><br/><sub>Oracle</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/clickhouse/FFCC01" width="36" /><br/><sub>ClickHouse</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/redis/FF4438" width="36" /><br/><sub>Redis</sub></td>
+    <td align="center" bgcolor="#F5F0FF">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachekafka/FFFFFF">
+        <img src="https://cdn.simpleicons.org/apachekafka" width="36" />
+      </picture><br/><sub>Kafka</sub>
+    </td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="36" /><br/><sub>RabbitMQ</sub></td>
   </tr>
   <tr>
-    <th colspan="10" align="center">Infrastructure & Tools</th>
+    <th colspan="10" align="center" bgcolor="#F5F0FF">Infrastructure & Tools</th>
   </tr>
   <tr>
-    <td align="center"><img src="https://cdn.simpleicons.org/docker/2496ED" width="36" /><br/><sub>Docker</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/git/F05032" width="36" /><br/><sub>Git</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="36" /><br/><sub>AWS</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" /><br/><sub>Firebase</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/linux/FCC624" width="36" /><br/><sub>Linux</sub></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/arduino/00878F" width="36" /><br/><sub>Arduino</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/docker/2496ED" width="36" /><br/><sub>Docker</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/git/F05032" width="36" /><br/><sub>Git</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="36" /><br/><sub>AWS</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" /><br/><sub>Firebase</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/linux/FCC624" width="36" /><br/><sub>Linux</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/arduino/00878F" width="36" /><br/><sub>Arduino</sub></td>
   </tr>
 </table>
 
@@ -186,6 +207,11 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
 
 ---
 
+## 📫 Contact
+
 <div align="center">
-  📫 <a href="mailto:rifkyakhmad911@gmail.com">rifkyakhmad911@gmail.com</a> &nbsp;·&nbsp; 🐙 <a href="https://github.com/RifkyA911">github.com/RifkyA911</a>
+  <a href="mailto:rifkyakhmad911@gmail.com"><img src="https://img.shields.io/badge/-rifkyakhmad911@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/badge/-@RifkyA911-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/rifky-akhmad-f-031556265"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/rifkyakhmadf"><img src="https://img.shields.io/badge/-@rifkyakhmadf-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a>
 </div>
