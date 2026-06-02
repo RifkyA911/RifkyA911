@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="110" />
+  <img src="https://camo.githubusercontent.com/86cea5baf4b18e7ab1328444851754dff9eee5e03ee1fa5fc4b07b58a557134b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6636686e68486b6b7338626b346a776a68332f67697068792e676966" width="110" />
 </p>
 
 <h1 align="center">👋 Rifky Akhmad F.</h1>
@@ -22,6 +22,8 @@ Code. Coffee. Repeat. ☕
 I'm a programmer who finds clarity in the quiet of late nights 🌙, where distractions fade and the real problem-solving begins. I thrive in **team environments** 🤝 — bouncing ideas during brainstorming sessions 🧠, debating architecture decisions 🏗️, and shipping solutions together.
 
 I think beyond the syntax. **Business mindset** 💼 and **problem-solving** 🔍 drive every line I write. I'm passionate about **architecture & tech design** — figuring out how pieces fit together before writing a single line of code.
+
+I'm fully committed to every project I take on — I don't just write code, I take ownership. I see each feature through from concept to deployment, and I treat every codebase like it's my own.
 
 I'm constantly learning 🎯, researching new technologies 🔬, and running **experiments** 🧪 on the side. Whether it's a new framework, a different database, or a weird hardware project — I jump in and figure it out as I go.
 
@@ -108,8 +110,8 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" /><br/><sub>Python</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="36" /><br/><sub>C++</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/dotnet/512BD4" width="36" /><br/><sub>C#</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" /><br/><sub>Java</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/dart/0175C2" width="36" /><br/><sub>Dart</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="36" /><br/><sub>Kotlin</sub></td>
   </tr>
   <tr>
     <th colspan="10" align="center" bgcolor="#F5F0FF">Frontend & Mobile</th>
@@ -178,15 +180,27 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="36" /><br/><sub>RabbitMQ</sub></td>
   </tr>
   <tr>
+    <th colspan="10" align="center" bgcolor="#F5F0FF">AI, ML & IoT</th>
+  </tr>
+  <tr>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="36" /><br/><sub>TensorFlow</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="36" /><br/><sub>PyTorch</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="36" /><br/><sub>OpenCV</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" /><br/><sub>scikit-learn</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="36" /><br/><sub>Raspberry Pi</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/mqtt/660066" width="36" /><br/><sub>MQTT</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/arduino/00878F" width="36" /><br/><sub>Arduino</sub></td>
+  </tr>
+  <tr>
     <th colspan="10" align="center" bgcolor="#F5F0FF">Infrastructure & Tools</th>
   </tr>
   <tr>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/docker/2496ED" width="36" /><br/><sub>Docker</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/git/F05032" width="36" /><br/><sub>Git</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="36" /><br/><sub>AWS</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/nginx/009639" width="36" /><br/><sub>Nginx</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" /><br/><sub>Firebase</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/linux/FCC624" width="36" /><br/><sub>Linux</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/arduino/00878F" width="36" /><br/><sub>Arduino</sub></td>
   </tr>
 </table>
 
@@ -207,11 +221,13 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
 
 ---
 
-## 📫 Contact
+## 📫 Let's Connect
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Whether you have a question, a collaboration idea, or just want to say hi — feel free to reach out!
 
 <div align="center">
   <a href="mailto:rifkyakhmad911@gmail.com"><img src="https://img.shields.io/badge/-rifkyakhmad911@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/badge/-@RifkyA911-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/rifky-akhmad-f-031556265"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/rifkyakhmadf"><img src="https://img.shields.io/badge/-@rifkyakhmadf-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rifkya911/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=SPRDsG4AAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
 </div>
