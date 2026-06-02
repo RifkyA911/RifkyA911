@@ -1,4 +1,4 @@
-<p align="center">
+﻿<p align="center">
   <img src="https://camo.githubusercontent.com/86cea5baf4b18e7ab1328444851754dff9eee5e03ee1fa5fc4b07b58a557134b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6636686e68486b6b7338626b346a776a68332f67697068792e676966" width="110" />
 </p>
 
@@ -12,6 +12,14 @@
   <img src="https://img.shields.io/badge/-Brainstormer-8A2BE2?style=flat-square&logo=livechat&logoColor=white" />
   <img src="https://img.shields.io/badge/-Architecture-0052CC?style=flat-square&logo=diagramsdotnet&logoColor=white" />
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+</div>
+
+<br/>
+
+> *"The beautiful thing about learning is that nobody can take it away from you."* — **B.B. King**
 
 ---
 
@@ -134,7 +142,7 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="36" /><br/><sub>React Native</sub></td>
   </tr>
   <tr>
-    <th colspan="10" align="center" bgcolor="#F5F0FF">Backend & Runtime</th>
+    <th colspan="10" align="center" bgcolor="#F5F0FF">Backend, Runtime & CMS</th>
   </tr>
   <tr>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="36" /><br/><sub>Laravel</sub></td>
@@ -155,6 +163,7 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
     </td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="36" /><br/><sub>NestJS</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/codeigniter/EF4223" width="36" /><br/><sub>CI</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/wordpress/21759B" width="36" /><br/><sub>WordPress</sub></td>
   </tr>
   <tr>
     <th colspan="10" align="center" bgcolor="#F5F0FF">Database & Message Broker</th>
@@ -192,13 +201,22 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/arduino/00878F" width="36" /><br/><sub>Arduino</sub></td>
   </tr>
   <tr>
-    <th colspan="10" align="center" bgcolor="#F5F0FF">Infrastructure & Tools</th>
+    <th colspan="10" align="center" bgcolor="#F5F0FF">Infrastructure, DevOps & Tools</th>
   </tr>
   <tr>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/docker/2496ED" width="36" /><br/><sub>Docker</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/git/F05032" width="36" /><br/><sub>Git</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="36" /><br/><sub>AWS</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/terraform/844FBA" width="36" /><br/><sub>Terraform</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/nginx/009639" width="36" /><br/><sub>Nginx</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://img.shields.io/badge/-VPS-FF6600?style=flat-square&logo=cloud&logoColor=white" width="72" /><br/><sub>VPS</sub></td>
+    <td align="center" bgcolor="#F5F0FF">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/opentelemetry/FFFFFF">
+        <img src="https://cdn.simpleicons.org/opentelemetry" width="36" />
+      </picture><br/><sub>OpenTelemetry</sub>
+    </td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/sentry/362D59" width="36" /><br/><sub>Sentry</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/archlinux/1793D1" width="36" /><br/><sub>Arch Linux</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" /><br/><sub>Firebase</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/linux/FCC624" width="36" /><br/><sub>Linux</sub></td>
   </tr>
@@ -213,10 +231,9 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RifkyA911&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RifkyA911&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RifkyA911&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RifkyA911&theme=tokyonight" height="150" />
+  <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/github/followers/RifkyA911?style=flat-square&label=Followers&color=blueviolet" /></a>
+  <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/github/stars/RifkyA911?style=flat-square&label=Total%20Stars&color=brightgreen" /></a>
+  <img src="https://hits.sh/github.com/RifkyA911.svg?style=flat-square&label=Profile%20Views&color=blue" />
 </div>
 
 ---
@@ -225,9 +242,16 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
 
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Whether you have a question, a collaboration idea, or just want to say hi — feel free to reach out!
 
-<div align="center">
-  <a href="mailto:rifkyakhmad911@gmail.com"><img src="https://img.shields.io/badge/-rifkyakhmad911@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/badge/-@RifkyA911-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rifkya911/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://scholar.google.com/citations?user=SPRDsG4AAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>
-</div>
+<table>
+  <tr>
+    <td align="center"><a href="mailto:rifkyakhmad911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
+    <td align="center"><a href="https://github.com/RifkyA911"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/rifkya911/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
+    <td align="center">
+      <details>
+        <summary><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></summary>
+        <a href="https://scholar.google.com/citations?user=SPRDsG4AAAAJ&hl=en">https://scholar.google.com/citations?user=SPRDsG4AAAAJ&hl=en</a>
+      </details>
+    </td>
+  </tr>
+</table>
