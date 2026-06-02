@@ -1,4 +1,8 @@
-﻿<p align="center">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+</p>
+
+<p align="center">
   <img src="https://camo.githubusercontent.com/86cea5baf4b18e7ab1328444851754dff9eee5e03ee1fa5fc4b07b58a557134b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6636686e68486b6b7338626b346a776a68332f67697068792e676966" width="110" />
 </p>
 
@@ -12,10 +16,6 @@
   <img src="https://img.shields.io/badge/-Brainstormer-8A2BE2?style=flat-square&logo=livechat&logoColor=white" />
   <img src="https://img.shields.io/badge/-Architecture-0052CC?style=flat-square&logo=diagramsdotnet&logoColor=white" />
 </p>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
-</div>
 
 <br/>
 
@@ -32,6 +32,8 @@ I'm a programmer who finds clarity in the quiet of late nights 🌙, where distr
 I think beyond the syntax. **Business mindset** 💼 and **problem-solving** 🔍 drive every line I write. I'm passionate about **architecture & tech design** — figuring out how pieces fit together before writing a single line of code.
 
 I'm fully committed to every project I take on — I don't just write code, I take ownership. I see each feature through from concept to deployment, and I treat every codebase like it's my own.
+
+Saya aktif mendalami perkembangan teknologi terkini 🌐 — selalu update dengan framework, runtime, dan tools terbaru. 🏠 Daily driver: <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="16" /> Arch Linux · ☁️ experienced with VPS deployment & management.
 
 I'm constantly learning 🎯, researching new technologies 🔬, and running **experiments** 🧪 on the side. Whether it's a new framework, a different database, or a weird hardware project — I jump in and figure it out as I go.
 
@@ -102,7 +104,7 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
 
 <table>
   <tr>
-    <th colspan="10" align="center" bgcolor="#F5F0FF">Languages</th>
+    <th colspan="11" align="center" bgcolor="#F5F0FF">Languages</th>
   </tr>
   <tr>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" /><br/><sub>TypeScript</sub></td>
@@ -122,7 +124,7 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="36" /><br/><sub>Kotlin</sub></td>
   </tr>
   <tr>
-    <th colspan="10" align="center" bgcolor="#F5F0FF">Frontend & Mobile</th>
+    <th colspan="11" align="center" bgcolor="#F5F0FF">Frontend & Mobile</th>
   </tr>
   <tr>
     <td align="center" bgcolor="#F5F0FF">
@@ -142,7 +144,7 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="36" /><br/><sub>React Native</sub></td>
   </tr>
   <tr>
-    <th colspan="10" align="center" bgcolor="#F5F0FF">Backend, Runtime & CMS</th>
+    <th colspan="11" align="center" bgcolor="#F5F0FF">Backend, Runtime & CMS</th>
   </tr>
   <tr>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="36" /><br/><sub>Laravel</sub></td>
@@ -164,9 +166,16 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="36" /><br/><sub>NestJS</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/codeigniter/EF4223" width="36" /><br/><sub>CI</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/wordpress/21759B" width="36" /><br/><sub>WordPress</sub></td>
+    <td align="center" bgcolor="#F5F0FF">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/actix/FFFFFF">
+        <img src="https://cdn.simpleicons.org/actix" width="36" />
+      </picture><br/><sub>Actix</sub>
+    </td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/gin/4183C4" width="36" /><br/><sub>Gin</sub></td>
   </tr>
   <tr>
-    <th colspan="10" align="center" bgcolor="#F5F0FF">Database & Message Broker</th>
+    <th colspan="11" align="center" bgcolor="#F5F0FF">Database & Message Broker</th>
   </tr>
   <tr>
     <td align="center" bgcolor="#F5F0FF">
@@ -189,7 +198,7 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="36" /><br/><sub>RabbitMQ</sub></td>
   </tr>
   <tr>
-    <th colspan="10" align="center" bgcolor="#F5F0FF">AI, ML & IoT</th>
+    <th colspan="11" align="center" bgcolor="#F5F0FF">AI, ML & IoT</th>
   </tr>
   <tr>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="36" /><br/><sub>TensorFlow</sub></td>
@@ -201,14 +210,13 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/arduino/00878F" width="36" /><br/><sub>Arduino</sub></td>
   </tr>
   <tr>
-    <th colspan="10" align="center" bgcolor="#F5F0FF">Infrastructure, DevOps & Tools</th>
+    <th colspan="11" align="center" bgcolor="#F5F0FF">Infrastructure, DevOps & Tools</th>
   </tr>
   <tr>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/docker/2496ED" width="36" /><br/><sub>Docker</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="36" /><br/><sub>AWS</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/terraform/844FBA" width="36" /><br/><sub>Terraform</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/nginx/009639" width="36" /><br/><sub>Nginx</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://img.shields.io/badge/-VPS-FF6600?style=flat-square&logo=cloud&logoColor=white" width="72" /><br/><sub>VPS</sub></td>
     <td align="center" bgcolor="#F5F0FF">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/opentelemetry/FFFFFF">
@@ -216,7 +224,6 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
       </picture><br/><sub>OpenTelemetry</sub>
     </td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/sentry/362D59" width="36" /><br/><sub>Sentry</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/archlinux/1793D1" width="36" /><br/><sub>Arch Linux</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" /><br/><sub>Firebase</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/linux/FCC624" width="36" /><br/><sub>Linux</sub></td>
   </tr>
@@ -231,6 +238,16 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
 </div>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RifkyA911&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RifkyA911&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RifkyA911&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RifkyA911&theme=tokyonight" />
+</div>
+
+<div align="center">
   <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/github/followers/RifkyA911?style=flat-square&label=Followers&color=blueviolet" /></a>
   <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/github/stars/RifkyA911?style=flat-square&label=Total%20Stars&color=brightgreen" /></a>
   <img src="https://hits.sh/github.com/RifkyA911.svg?style=flat-square&label=Profile%20Views&color=blue" />
@@ -240,18 +257,11 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
 
 ## 📫 Let's Connect
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Whether you have a question, a collaboration idea, or just want to say hi — feel free to reach out!
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
 
-<table>
-  <tr>
-    <td align="center"><a href="mailto:rifkyakhmad911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
-    <td align="center"><a href="https://github.com/RifkyA911"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/rifkya911/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
-    <td align="center">
-      <details>
-        <summary><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></summary>
-        <a href="https://scholar.google.com/citations?user=SPRDsG4AAAAJ&hl=en">https://scholar.google.com/citations?user=SPRDsG4AAAAJ&hl=en</a>
-      </details>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="mailto:rifkyakhmad911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rifkya911/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <sub><a href="https://scholar.google.com/citations?user=SPRDsG4AAAAJ&hl=en"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="16" /></a></sub>
+</div>
