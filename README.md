@@ -1,97 +1,112 @@
-<h1 align="center">Rifky Akhmad F.</h1>
+<p align="center">
+  <img src="_img/hula_loop_octodex03.gif" alt="octocat" width="130" />
+</p>
+
+<h1 align="center">👋 Rifky Akhmad F.</h1>
 
 <p align="center">
-  <a href="mailto:rifkyakhmad911@gmail.com"><img src="https://img.shields.io/badge/rifkyakhmad911@gmail.com-D14836?logo=gmail&logoColor=fff&style=flat" /></a>
-  <img src="https://img.shields.io/badge/-Fullstack%20Developer-181717?style=flat" />
-  <img src="https://img.shields.io/badge/-IoT%20Enthusiast-00ADD8?style=flat" />
+  <img src="https://img.shields.io/badge/Code-Architect-181717?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Engineer-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frontend-Crafter-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/IoT-Builder-00878F?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-Integrator-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rust-000?style=flat&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## About Me
+## 📌 About Me
 
-A self-driven developer who writes code from the sensor layer up to the browser. I build REST APIs in **Go** and **Rust**, craft interfaces with **Next.js** and **React**, and wire up embedded systems when the mood strikes. My work spans web platforms, AI integrations, automation pipelines, and IoT infrastructure — all driven by a simple principle: build it, ship it, then make it better.
+I write code across the full spectrum — from bare-metal C on microcontrollers to stateful UIs in React and stateless APIs in Go. I don't believe in lanes. I believe in building.
 
----
+My toolbox covers **TypeScript**, **Go**, **Rust**, **PHP**, **Python**, and **JavaScript** — and I reach for whatever fits the problem. Results over religion.
 
-## My Approach
-
-**Start simple, scale deliberate.** I prefer clean architecture over premature optimization. Every project I ship is a learning vessel — whether it is a production template or a weekend experiment. I code in **TypeScript**, **Go**, **Rust**, **PHP**, and **Python**, and I pick the right tool for the problem, not the other way around.
-
-**Full spectrum.** I do not box myself into one lane. Frontend, backend, database, deployment, even hardware — understanding the whole stack lets me make better decisions at every layer.
-
-**Ship first, iterate fast.** Done is better than perfect. I release early, gather feedback, and refine. Every repository is a notebook as much as it is a product.
+🔹 Full-stack & systems builder  
+🔹 Open source contributor  
+🔹 Linux & self-hosting advocate  
+🔹 Lifelong learner, serial project-starter  
 
 ---
 
-## Tech Stack
+## ⚡ My Approach
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat)
-![Rust](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+**Ship first. Iterate fast.**  
+I'd rather launch a working 7/10 today than a perfect 10/10 next month. Every repo is both a product and a notebook.
 
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
+**Pick the right tool.**  
+No framework worship. TypeScript where it matters. Go for performance. Rust when safety is critical. PHP when the job calls for it.
 
-### Backend & Runtime
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat)
-![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff&style=flat)
-![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff&style=flat)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
-
-### Tools & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=fff&style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=flat)
+**Understand the whole stack.**  
+Database indexing, API design, frontend state, deployment — I keep the full picture in frame.
 
 ---
 
-## Key Projects
+## 🛠️ Tech Stack
 
-### Production & Platform
-- **Momentum** — AI-driven habit tracker with Groq LLaMA, Nuxt 4, and real-time behavioral analytics
-- **Next.JS 16 Project Engine** — Enterprise-grade template with React 19, TypeScript, and Turbopack
-- **Simple Inventory API** — Go standard-library REST API for inventory management
-
-### AI & Automation
-- **Simple Gemini Chatbot API** — Google Gemini-powered conversational agent built with Bun + Express
-- **Real-ESRGAN Upscaling** — Automated video enhancement pipeline for Kaggle and Colab environments
-
-### Systems & IoT
-- **Simple Ticketing System** — High-performance Rust backend using Tokio, SQLx, and PostgreSQL
-- **InstaApp** — Full-stack social media clone (Laravel REST API + Next.js frontend)
-- **Web IOT Inkubator** — Real-time incubator monitoring over WebSocket
+<table>
+  <tr>
+    <td align="center" width="96"><img src="_img/js.png" width="48" /><br/><b>JS</b></td>
+    <td align="center" width="96"><img src="_img/php.png" width="48" /><br/><b>PHP</b></td>
+    <td align="center" width="96"><img src="_img/python.png" width="48" /><br/><b>Python</b></td>
+    <td align="center" width="96"><img src="_img/golang.png" width="48" /><br/><b>Go</b></td>
+    <td align="center" width="96"><img src="_img/c-.png" width="48" /><br/><b>C++</b></td>
+    <td align="center" width="96"><img src="_img/c-sharp.png" width="48" /><br/><b>C#</b></td>
+    <td align="center" width="96"><img src="_img/java.png" width="48" /><br/><b>Java</b></td>
+    <td align="center" width="96"><img src="_img/dart.png" width="48" /><br/><b>Dart</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="_img/react.png" width="48" /><br/><b>React</b></td>
+    <td align="center" width="96"><img src="_img/vue.png" width="48" /><br/><b>Vue</b></td>
+    <td align="center" width="96"><img src="_img/Laravel.png" width="48" /><br/><b>Laravel</b></td>
+    <td align="center" width="96"><img src="_img/nodejs.png" width="48" /><br/><b>Node.js</b></td>
+    <td align="center" width="96"><img src="_img/codeigniter.png" width="48" /><br/><b>CI</b></td>
+    <td align="center" width="96"><img src="_img/flutter.png" width="48" /><br/><b>Flutter</b></td>
+    <td align="center" width="96"><img src="_img/bootsrap.png" width="48" /><br/><b>Bootstrap</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="_img/mysql.png" width="48" /><br/><b>MySQL</b></td>
+    <td align="center" width="96"><img src="_img/mongodb.png" width="48" /><br/><b>MongoDB</b></td>
+    <td align="center" width="96"><img src="_img/docker.png" width="48" /><br/><b>Docker</b></td>
+    <td align="center" width="96"><img src="_img/aws.png" width="48" /><br/><b>AWS</b></td>
+    <td align="center" width="96"><img src="_img/firebase.png" width="48" /><br/><b>Firebase</b></td>
+    <td align="center" width="96"><img src="_img/git.png" width="48" /><br/><b>Git</b></td>
+    <td align="center" width="96"><img src="_img/arduino.png" width="48" /><br/><b>Arduino</b></td>
+  </tr>
+</table>
 
 ---
 
-## GitHub Activity
+## 📦 Highlights
+
+- **Momentum** — AI habit tracker with Nuxt 4, Groq LLaMA, and behavioral analytics
+- **Next.JS 16 Project Engine** — Production template with React 19
+- **Simple Inventory API** — Go-native REST API, zero framework
+- **Simple Ticketing System** — Rust + Tokio + SQLx + PostgreSQL
+- **InstaApp** — Full-stack social clone (Laravel + Next.js)
+- **Real-ESRGAN Upscaling** — AI video enhancement pipeline
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&show_icons=true&hide_border=true&count_private=true&hide_title=true&bg_color=00000000" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyA911&layout=compact&hide_border=true&hide_title=true&bg_color=00000000" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&show_icons=true&count_private=true&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyA911&layout=compact&hide_title=true" height="150" />
 </div>
 
 ---
 
 <div align="center">
-  <a href="mailto:rifkyakhmad911@gmail.com">rifkyakhmad911@gmail.com</a>
-  &middot;
-  <a href="https://github.com/RifkyA911">github.com/RifkyA911</a>
+  📫 <a href="mailto:rifkyakhmad911@gmail.com">rifkyakhmad911@gmail.com</a> &nbsp;|&nbsp; 🐙 <a href="https://github.com/RifkyA911">github.com/RifkyA911</a>
 </div>
