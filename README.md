@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b2/87/6f/b2876f8a04eed3c9419856e403b014c0.gif" width="150" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ2Y4NXFhcTRmdWE3ZDNreDZxMmFzOWJ3enBwdXNhOHEyNzR0eng1biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/V4ErRLRQG2lfKOjIht/giphy.gif" width="150" />
+  <img src="https://i.pinimg.com/originals/b2/87/6f/b2876f8a04eed3c9419856e403b014c0.gif" width="300" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ2Y4NXFhcTRmdWE3ZDNreDZxMmFzOWJ3enBwdXNhOHEyNzR0eng1biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/V4ErRLRQG2lfKOjIht/giphy.gif" width="300" />
 </p>
 
 <p align="center">
-  <img src="_img/hula_loop_octodex03.gif" width="100" />
+  <img src="https://camo.githubusercontent.com/86cea5baf4b18e7ab1328444851754dff9eee5e03ee1fa5fc4b07b58a557134b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6636686e68486b6b7338626b346a776a68332f67697068792e676966" width="150" />
 </p>
 
 <h1 align="center">👋 Rifky Akhmad F.</h1>
@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+  <img src="https://media1.giphy.com/media/gF7LtgLeC0CodHxWXK/giphy.gif" width="700" />
 </div>
 
 <br/>
@@ -78,7 +78,7 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
   </tr>
   <tr>
     <td><b>Next.JS 16 Project Engine</b></td>
-    <td>Next.js · React 19 · Turbopack</td>
+    <td>Next.js · React 19 · TanStack</td>
     <td>Production-ready template with modern tooling</td>
   </tr>
   <tr>
@@ -239,10 +239,22 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
 
 ## 📊 GitHub Stats
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RifkyA911&theme=tokyonight" width="1" height="1" style="display:none" />
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RifkyA911&theme=default" height="150" />
-  <br/>
-  <sub><em>Note: Stats may not load if the service is unavailable — check back later.</em></sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RifkyA911&theme=tokyonight" width="700" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RifkyA911&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RifkyA911&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/github/followers/RifkyA911?style=for-the-badge&label=Followers&color=blueviolet" /></a>
+  <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/github/stars/RifkyA911?style=for-the-badge&label=Stars&color=brightgreen" /></a>
+  <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/github/repos/RifkyA911?style=for-the-badge&label=Repos&color=orange" /></a>
+  <img src="https://hits.sh/github.com/RifkyA911.svg?style=for-the-badge&label=Views&color=blue" />
 </div>
 
 ---
