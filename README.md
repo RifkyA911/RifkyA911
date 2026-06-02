@@ -246,7 +246,6 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
 </div>
 
 ---
----
 
 ## 📫 Let's Connect
 
