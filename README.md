@@ -9,6 +9,8 @@
 
 <h1 align="center">👋 Rifky Akhmad F.</h1>
 
+<p align="center"><i>Hey there! Welcome to my corner of the internet — grab a coffee ☕ and stay a while.</i></p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Coffee%20First-6F4E37?style=flat-square&logo=buy-me-a-coffee&logoColor=white" />
   <img src="https://img.shields.io/badge/-Night%20Owl-1a1a2e?style=flat-square&logo=starship&logoColor=white" />
