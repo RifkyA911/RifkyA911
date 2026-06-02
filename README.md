@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+  <img src="https://i.pinimg.com/originals/b2/87/6f/b2876f8a04eed3c9419856e403b014c0.gif" width="300" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ2Y4NXFhcTRmdWE3ZDNreDZxMmFzOWJ3enBwdXNhOHEyNzR0eng1biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/V4ErRLRQG2lfKOjIht/giphy.gif" width="300" />
 </p>
 
 <p align="center">
@@ -16,6 +17,10 @@
   <img src="https://img.shields.io/badge/-Brainstormer-8A2BE2?style=flat-square&logo=livechat&logoColor=white" />
   <img src="https://img.shields.io/badge/-Architecture-0052CC?style=flat-square&logo=diagramsdotnet&logoColor=white" />
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+</div>
 
 <br/>
 
@@ -215,6 +220,7 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
   <tr>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/docker/2496ED" width="36" /><br/><sub>Docker</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="36" /><br/><sub>AWS</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="36" /><br/><sub>GCP</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/terraform/844FBA" width="36" /><br/><sub>Terraform</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/nginx/009639" width="36" /><br/><sub>Nginx</sub></td>
     <td align="center" bgcolor="#F5F0FF">
@@ -233,8 +239,10 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
 
 ## 📊 GitHub Stats
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RifkyA911&theme=tokyonight" width="1" height="1" style="display:none" />
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RifkyA911&theme=tokyonight" width="700" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RifkyA911&theme=tokyonight" width="700" />
 </div>
 
 <div align="center">
@@ -243,25 +251,21 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RifkyA911&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RifkyA911&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/github/followers/RifkyA911?style=flat-square&label=Followers&color=blueviolet" /></a>
-  <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/github/stars/RifkyA911?style=flat-square&label=Total%20Stars&color=brightgreen" /></a>
-  <img src="https://hits.sh/github.com/RifkyA911.svg?style=flat-square&label=Profile%20Views&color=blue" />
+  <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/github/followers/RifkyA911?style=for-the-badge&label=Followers&color=blueviolet" /></a>
+  <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/github/stars/RifkyA911?style=for-the-badge&label=Stars&color=brightgreen" /></a>
+  <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/github/repos/RifkyA911?style=for-the-badge&label=Repos&color=orange" /></a>
+  <img src="https://hits.sh/github.com/RifkyA911.svg?style=for-the-badge&label=Views&color=blue" />
 </div>
 
 ---
 
 ## 📫 Let's Connect
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to reach out!
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Whether you have a question, a collaboration idea, or just want to say hi — feel free to reach out!
 
 <div align="center">
   <a href="mailto:rifkyakhmad911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rifkya911/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <sub><a href="https://scholar.google.com/citations?user=SPRDsG4AAAAJ&hl=en"><img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="16" /></a></sub>
+  <a href="https://scholar.google.com/citations?user=SPRDsG4AAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
 </div>
