@@ -1,112 +1,101 @@
 <p align="center">
-  <img src="_img/hula_loop_octodex03.gif" alt="octocat" width="130" />
+  <img src="_img/hula_loop_octodex03.gif" width="100" />
 </p>
 
 <h1 align="center">👋 Rifky Akhmad F.</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Architect-181717?style=for-the-badge&logo=codeigniter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Engineer-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-Crafter-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/IoT-Builder-00878F?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Integrator-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Coffee-6F4E37?style=flat-square&logo=buy-me-a-coffee&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Night%20Owl-1a1a2e?style=flat-square&logo=starship&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Team%20Player-2ea44f?style=flat-square&logo=groupme&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Problem%20Solver-ff4500?style=flat-square&logo=testin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Brainstormer-8A2BE2?style=flat-square&logo=livechat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Architecture%20Lover-0052CC?style=flat-square&logo=diagramsdotnet&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Rust-000?style=flat&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-## 📌 About Me
+## 🧑‍💻 About Me
 
-I write code across the full spectrum — from bare-metal C on microcontrollers to stateful UIs in React and stateless APIs in Go. I don't believe in lanes. I believe in building.
+A programmer who runs on ☕ **coffee** and 🌙 **quiet late nights**. I believe the best code is written when the world is asleep and the ideas are flowing.
 
-My toolbox covers **TypeScript**, **Go**, **Rust**, **PHP**, **Python**, and **JavaScript** — and I reach for whatever fits the problem. Results over religion.
+I love working in **teams** 🤝 — nothing beats a good brainstorming session 🧠 to crack a tough problem. I think beyond the code: **business mindset** 💼, **problem-solving** 🔍, and clean **architecture design** 🏗️ are what turn good software into great products.
 
-🔹 Full-stack & systems builder  
-🔹 Open source contributor  
-🔹 Linux & self-hosting advocate  
-🔹 Lifelong learner, serial project-starter  
-
----
-
-## ⚡ My Approach
-
-**Ship first. Iterate fast.**  
-I'd rather launch a working 7/10 today than a perfect 10/10 next month. Every repo is both a product and a notebook.
-
-**Pick the right tool.**  
-No framework worship. TypeScript where it matters. Go for performance. Rust when safety is critical. PHP when the job calls for it.
-
-**Understand the whole stack.**  
-Database indexing, API design, frontend state, deployment — I keep the full picture in frame.
+I build across the full stack because understanding every layer makes me better at every layer.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="96"><img src="_img/js.png" width="48" /><br/><b>JS</b></td>
-    <td align="center" width="96"><img src="_img/php.png" width="48" /><br/><b>PHP</b></td>
-    <td align="center" width="96"><img src="_img/python.png" width="48" /><br/><b>Python</b></td>
-    <td align="center" width="96"><img src="_img/golang.png" width="48" /><br/><b>Go</b></td>
-    <td align="center" width="96"><img src="_img/c-.png" width="48" /><br/><b>C++</b></td>
-    <td align="center" width="96"><img src="_img/c-sharp.png" width="48" /><br/><b>C#</b></td>
-    <td align="center" width="96"><img src="_img/java.png" width="48" /><br/><b>Java</b></td>
-    <td align="center" width="96"><img src="_img/dart.png" width="48" /><br/><b>Dart</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="_img/react.png" width="48" /><br/><b>React</b></td>
-    <td align="center" width="96"><img src="_img/vue.png" width="48" /><br/><b>Vue</b></td>
-    <td align="center" width="96"><img src="_img/Laravel.png" width="48" /><br/><b>Laravel</b></td>
-    <td align="center" width="96"><img src="_img/nodejs.png" width="48" /><br/><b>Node.js</b></td>
-    <td align="center" width="96"><img src="_img/codeigniter.png" width="48" /><br/><b>CI</b></td>
-    <td align="center" width="96"><img src="_img/flutter.png" width="48" /><br/><b>Flutter</b></td>
-    <td align="center" width="96"><img src="_img/bootsrap.png" width="48" /><br/><b>Bootstrap</b></td>
-  </tr>
-  <tr>
-    <td align="center" width="96"><img src="_img/mysql.png" width="48" /><br/><b>MySQL</b></td>
-    <td align="center" width="96"><img src="_img/mongodb.png" width="48" /><br/><b>MongoDB</b></td>
-    <td align="center" width="96"><img src="_img/docker.png" width="48" /><br/><b>Docker</b></td>
-    <td align="center" width="96"><img src="_img/aws.png" width="48" /><br/><b>AWS</b></td>
-    <td align="center" width="96"><img src="_img/firebase.png" width="48" /><br/><b>Firebase</b></td>
-    <td align="center" width="96"><img src="_img/git.png" width="48" /><br/><b>Git</b></td>
-    <td align="center" width="96"><img src="_img/arduino.png" width="48" /><br/><b>Arduino</b></td>
-  </tr>
-</table>
+<div align="center">
+
+**Languages**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42" />
+
+**Frontend**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42" />
+
+**Backend**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" width="42" />
+
+**Database & Tools**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="42" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" />
+
+</div>
 
 ---
 
-## 📦 Highlights
-
-- **Momentum** — AI habit tracker with Nuxt 4, Groq LLaMA, and behavioral analytics
-- **Next.JS 16 Project Engine** — Production template with React 19
-- **Simple Inventory API** — Go-native REST API, zero framework
-- **Simple Ticketing System** — Rust + Tokio + SQLx + PostgreSQL
-- **InstaApp** — Full-stack social clone (Laravel + Next.js)
-- **Real-ESRGAN Upscaling** — AI video enhancement pipeline
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&show_icons=true&count_private=true&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyA911&layout=compact&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&show_icons=true&count_private=true&hide_title=true&theme=default" height="150" />
+  <br/>
+  <sub><em>Note: Stats may not load if the service is unavailable — check back later.</em></sub>
 </div>
 
 ---
 
 <div align="center">
-  📫 <a href="mailto:rifkyakhmad911@gmail.com">rifkyakhmad911@gmail.com</a> &nbsp;|&nbsp; 🐙 <a href="https://github.com/RifkyA911">github.com/RifkyA911</a>
+  📫 <a href="mailto:rifkyakhmad911@gmail.com">rifkyakhmad911@gmail.com</a> &nbsp;·&nbsp; 🐙 <a href="https://github.com/RifkyA911">github.com/RifkyA911</a>
 </div>
