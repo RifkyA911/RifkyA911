@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b2/87/6f/b2876f8a04eed3c9419856e403b014c0.gif" width="300" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ2Y4NXFhcTRmdWE3ZDNreDZxMmFzOWJ3enBwdXNhOHEyNzR0eng1biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/V4ErRLRQG2lfKOjIht/giphy.gif" width="300" />
+  <img src="https://i.pinimg.com/originals/b2/87/6f/b2876f8a04eed3c9419856e403b014c0.gif" width="150" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ2Y4NXFhcTRmdWE3ZDNreDZxMmFzOWJ3enBwdXNhOHEyNzR0eng1biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/V4ErRLRQG2lfKOjIht/giphy.gif" width="150" />
 </p>
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/86cea5baf4b18e7ab1328444851754dff9eee5e03ee1fa5fc4b07b58a557134b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6636686e68486b6b7338626b346a776a68332f67697068792e676966" width="150" />
+  <img src="https://camo.githubusercontent.com/86cea5baf4b18e7ab1328444851754dff9eee5e03ee1fa5fc4b07b58a557134b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6636686e68486b6b7338626b346a776a68332f67697068792e676966" width="200" />
 </p>
 
 <h1 align="center">👋 Rifky Akhmad F.</h1>
@@ -19,7 +19,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/gF7LtgLeC0CodHxWXK/giphy.gif" width="700" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 </div>
 
 <br/>
