@@ -62,6 +62,8 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
 
 ## 📦 Projects
 
+Over the years, I've built everything from AI-powered tools to hardware-connected dashboards. Here are some that shaped my journey:
+
 <table>
   <tr>
     <th>Project</th>
@@ -71,43 +73,45 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
   <tr>
     <td><b>Momentum</b></td>
     <td>Nuxt 4 · Groq LLaMA · TypeScript</td>
-    <td>AI-powered habit tracker with behavioral analytics</td>
+    <td>AI-powered habit tracker with behavioral analytics — uses LLM reasoning to detect patterns and suggest habit adjustments in real time</td>
   </tr>
   <tr>
     <td><b>Gemini Chatbot</b></td>
     <td>Bun · Express · Gemini AI</td>
-    <td>Google Gemini AI agent with real-time responses</td>
+    <td>Google Gemini AI agent with real-time streaming responses — built for low-latency conversation handling and tool integration</td>
   </tr>
   <tr>
     <td><b>Next.JS 16 Project Engine</b></td>
     <td>Next.js · React 19 · TanStack</td>
-    <td>Production-ready template with modern tooling</td>
+    <td>Production-ready starter with Turbopack, server actions, and TanStack Query — optimized for rapid development</td>
   </tr>
   <tr>
     <td><b>Simple Ticketing System</b></td>
     <td>Rust · Tokio · SQLx · PostgreSQL</td>
-    <td>High-performance async ticket management API</td>
+    <td>High-performance async ticket management API — leverages Rust's concurrency model for handling thousands of concurrent requests</td>
   </tr>
   <tr>
     <td><b>InstaApp</b></td>
     <td>Laravel · Next.js · MongoDB</td>
-    <td>Full-stack social media platform clone</td>
+    <td>Full-stack social media clone with real-time feeds, stories, and messaging — feature-rich and scalable</td>
   </tr>
   <tr>
     <td><b>Inventory API</b></td>
     <td>Go · MySQL · JWT</td>
-    <td>RESTful inventory management with auth</td>
+    <td>RESTful inventory management with JWT auth, paginated reporting, and clean layered architecture</td>
   </tr>
   <tr>
     <td><b>Web IOT Incubator</b></td>
     <td>WebSocket · PHP · Hardware</td>
-    <td>Real-time incubator monitoring dashboard</td>
+    <td>Real-time incubator monitoring dashboard — streams sensor data via WebSocket with hardware-level control</td>
   </tr>
 </table>
 
 ---
 
 ## 🛠️ Tech Stack
+
+From language runtimes to cloud infrastructure — this is the stack I've worked hands-on with across real projects, experiments, and production deployments. Each one taught me something worth keeping.
 
 <table>
   <tr>
@@ -127,7 +131,7 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" /><br/><sub>Python</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="36" /><br/><sub>C++</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/dotnet/512BD4" width="36" /><br/><sub>C#</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/dart/0175C2" width="36" /><br/><sub>Dart</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" /><br/><sub>Dart</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="36" /><br/><sub>Kotlin</sub></td>
   </tr>
   <tr>
@@ -158,8 +162,8 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="36" /><br/><sub>Node.js</sub></td>
     <td align="center" bgcolor="#F5F0FF">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/bun/FFFFFF">
-        <img src="https://cdn.simpleicons.org/bun" width="36" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://bun.sh/logo.svg">
+        <img src="https://bun.sh/logo.svg" width="36" />
       </picture><br/><sub>Bun</sub>
     </td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/hono/E36002" width="36" /><br/><sub>Hono</sub></td>
@@ -179,7 +183,7 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
         <img src="https://cdn.simpleicons.org/actix" width="36" />
       </picture><br/><sub>Actix</sub>
     </td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/gin/4183C4" width="36" /><br/><sub>Gin</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="36" /><br/><sub>Gin</sub></td>
   </tr>
   <tr>
     <th colspan="11" align="center" bgcolor="#F5F0FF">Database & Message Broker</th>
@@ -240,6 +244,8 @@ I'm constantly learning 🎯, researching new technologies 🔬, and running **e
 ---
 
 ## 📊 GitHub Stats
+
+A quick look at my coding activity, language spread, and contribution patterns across repos:
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RifkyA911&theme=tokyonight" />
