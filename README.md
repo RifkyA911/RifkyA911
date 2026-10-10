@@ -71,41 +71,85 @@ Over the years, I've built everything from AI-powered tools to hardware-connecte
     <th>What it does</th>
   </tr>
   <tr>
-    <td><b>Momentum</b></td>
+    <td><b><a href="https://github.com/RifkyA911/NovaSentry">NovaSentry</a></b></td>
+    <td>Rust · Axum · RAG · Tailwind</td>
+    <td>Autonomous Multi-Agent AI RAG Security Sentry & Guardrail Engine with SOC Sentinel Dashboard</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RifkyA911/mirunova-live">mirunova-live</a></b></td>
+    <td>SvelteKit · Bun · Live2D · Three.js</td>
+    <td>Next-Gen Web Live2D & 3D Avatar Vision Tracker • 100% Client-Side WebGL</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RifkyA911/TapVote-AI">TapVote-AI</a></b></td>
+    <td>TypeScript · MCP · RFID · SSE</td>
+    <td>AI-assisted e-voting kiosk & real-time election monitoring system with dual-ballot booth</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RifkyA911/Momentum-Habit-Tracker-Plan">Momentum</a></b></td>
     <td>Nuxt 4 · Groq LLaMA · TypeScript</td>
     <td>AI-powered habit tracker with behavioral analytics — uses LLM reasoning to detect patterns and suggest habit adjustments in real time</td>
   </tr>
   <tr>
-    <td><b>Gemini Chatbot</b></td>
-    <td>Bun · Express · Gemini AI</td>
-    <td>Google Gemini AI agent with real-time streaming responses — built for low-latency conversation handling and tool integration</td>
+    <td><b><a href="https://github.com/RifkyA911/agy-cli-account-swarm">agy-cli-account-swarm</a></b></td>
+    <td>TypeScript · CLI · MCP</td>
+    <td>Minimalist desktop orchestrator & multi-account manager for Google Antigravity CLI (agy)</td>
   </tr>
   <tr>
-    <td><b>Next.JS 16 Project Engine</b></td>
+    <td><b><a href="https://github.com/RifkyA911/NovaFinance-Frontend">NovaFinance Platform</a></b></td>
+    <td>Next.js 16 · ElysiaJS · Bun · PostgreSQL</td>
+    <td>Modern financial management & AI-driven bookkeeping platform (<a href="https://github.com/RifkyA911/NovaFinance-Frontend">Frontend</a> · <a href="https://github.com/RifkyA911/NovaFinance-Backend">Backend</a>)</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RifkyA911/Partner-Flow-FE">Partner-Flow</a></b></td>
+    <td>Next.js · NestJS 11 · Prisma · Redis</td>
+    <td>Modern referral partner platform with multi-level referral system (<a href="https://github.com/RifkyA911/Partner-Flow-FE">Frontend</a> · <a href="https://github.com/RifkyA911/Partner-Flow-Be">Backend</a>)</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RifkyA911/NovaStack-Next.JS-16-Project-Engine">Next.JS 16 Project Engine</a></b></td>
     <td>Next.js · React 19 · TanStack</td>
     <td>Production-ready starter with Turbopack, server actions, and TanStack Query — optimized for rapid development</td>
   </tr>
   <tr>
-    <td><b>Simple Ticketing System</b></td>
+    <td><b><a href="https://github.com/RifkyA911/PawFec-Company-Profile">PawFec Care</a></b></td>
+    <td>Astro 5 · React 19 · Tailwind v4 · GSAP</td>
+    <td>Modern pet care company profile website with smooth GSAP animations and shadcn/ui</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RifkyA911/Simple-Ticketing-System-Rust-Native">Simple Ticketing System</a></b></td>
     <td>Rust · Tokio · SQLx · PostgreSQL</td>
-    <td>High-performance async ticket management API — leverages Rust's concurrency model for handling thousands of concurrent requests</td>
+    <td>High-performance async ticket management API — leverages Rust's concurrency model for handling high throughput</td>
   </tr>
   <tr>
-    <td><b>InstaApp</b></td>
-    <td>Laravel · Next.js · MongoDB</td>
-    <td>Full-stack social media clone with real-time feeds, stories, and messaging — feature-rich and scalable</td>
-  </tr>
-  <tr>
-    <td><b>Inventory API</b></td>
+    <td><b><a href="https://github.com/RifkyA911/Simple-Inventory-API-Go-Native">Inventory API</a></b></td>
     <td>Go · MySQL · JWT</td>
     <td>RESTful inventory management with JWT auth, paginated reporting, and clean layered architecture</td>
   </tr>
   <tr>
-    <td><b>Web IOT Incubator</b></td>
-    <td>WebSocket · PHP · Hardware</td>
-    <td>Real-time incubator monitoring dashboard — streams sensor data via WebSocket with hardware-level control</td>
+    <td><b><a href="https://github.com/RifkyA911/Simple-Gemini-Chatbot-API">Gemini Chatbot</a></b></td>
+    <td>Bun · Express · Gemini AI</td>
+    <td>Google Gemini AI agent with real-time streaming responses — built for low-latency conversation handling and tool integration</td>
   </tr>
 </table>
+
+<details>
+<summary><b>🔍 Explore More Open Source Repositories & Tools</b></summary>
+<br/>
+
+| Repository | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| [**9router-playground**](https://github.com/RifkyA911/9router-playground) | SvelteKit · SSE | Glassmorphic Web UI & Playground for 9Router local AI Gateway |
+| [**Mobee-API-Client**](https://github.com/RifkyA911/Mobee-API-Client) | Svelte 5 · shadcn | Interactive web dashboard & client GUI for Mobee Open API |
+| [**Realtime-E-Vote**](https://github.com/RifkyA911/Realtime-E-Vote) | CodeIgniter 3 · WebSockets | Real-time e-voting application with RFID/NFC authentication |
+| [**Real-ESRGAN-Video-Upscaling-Automation**](https://github.com/RifkyA911/Real-ESRGAN-Video-Upscaling-Automation) | Python · AI | Automated video upscaling with Real-ESRGAN for Kaggle / Colab |
+| [**Top-Up-Games-with-POS-System**](https://github.com/RifkyA911/Top-Up-Games-with-POS-System) | React · TypeScript | Game top-up payment system with integrated POS interface |
+| [**Simple-Pagination-Server-Side**](https://github.com/RifkyA911/Simple-Pagination-Server-Side) | Hono.js · Bun | Server-side pagination API built with Hono and Bun runtime |
+| [**Management-Inventory-Golang-Native**](https://github.com/RifkyA911/Management-Inventory-Golang-Native) | Go Standard Library | Clean architecture inventory management built in pure Go stdlib |
+| [**Invitation-App-API**](https://github.com/RifkyA911/Invitation-App-API) | Rust · Actix Web | High-efficiency REST API for digital wedding invitations |
+| [**Insta-App-API**](https://github.com/RifkyA911/Insta-App-API) | Laravel · REST API | Backend social media service with authentication and feeds |
+| [**Simple-CRUD-Laravel-12**](https://github.com/RifkyA911/Simple-CRUD-Laravel-12) | Laravel 12 · MySQL | Production-ready clean CRUD template for Laravel 12 |
+
+</details>
 
 ---
 
