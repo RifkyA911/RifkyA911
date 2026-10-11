@@ -195,44 +195,93 @@ Over the years, I've built everything from AI-powered tools to hardware-connecte
 <div align="center">
 
 ### 💻 Languages & Core Runtimes
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,rust,go,py,bun,nodejs,cpp,cs,c,php,dart,kotlin,wasm,bash&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Golang" title="Golang" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=bun&theme=dark" alt="Bun" title="Bun" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" title="C#" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" title="PHP" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" title="Dart" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=wasm&theme=dark" alt="WebAssembly" title="WebAssembly" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash / Shell" title="Bash / Shell" width="44" height="44" />
 
 <br/><br/>
 
 ### 🌐 Frontend & App Frameworks
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,vue,nuxtjs,astro,tailwind,bootstrap,flutter,threejs,vite,html,css&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=svelte&theme=dark" alt="Svelte" title="Svelte" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js" title="Vue.js" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" alt="Nuxt.js" title="Nuxt.js" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="Astro" title="Astro" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" title="Bootstrap" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" title="Flutter" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js" title="Three.js" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" title="Vite" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3" width="44" height="44" />
 
 <br/><br/>
 
 ### ⚙️ Backend & API Services
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nestjs,express,elysia,actix,laravel,fastapi,django,graphql,postman&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="NestJS" title="NestJS" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" title="Express.js" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=elysia&theme=dark" alt="ElysiaJS" title="ElysiaJS" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=actix&theme=dark" alt="Actix Web" title="Actix Web" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" title="Laravel" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" title="Django" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="GraphQL" title="GraphQL" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman" width="44" height="44" />
 
 <br/><br/>
 
 ### 🗄️ Databases & Streaming Infrastructure
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq,prisma,sqlite,supabase&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Apache Kafka" title="Apache Kafka" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" alt="RabbitMQ" title="RabbitMQ" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="Prisma ORM" title="Prisma ORM" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" title="SQLite" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" title="Supabase" width="44" height="44" />
 
 <br/><br/>
 
 ### 🤖 AI, Machine Learning & Systems
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,arduino,raspberrypi,ros&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" title="PyTorch" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" title="OpenCV" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" title="Arduino" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" title="Raspberry Pi" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=ros&theme=dark" alt="Robot Operating System (ROS)" title="Robot Operating System (ROS)" width="44" height="44" />
 
 <br/><br/>
 
 ### ☁️ Cloud, DevOps & Observability
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,nginx,cloudflare,workers,linux,firebase,sentry,prometheus,grafana,githubactions,git&theme=dark" />
-</a>
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" title="Kubernetes" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="Amazon Web Services (AWS)" title="Amazon Web Services (AWS)" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud Platform (GCP)" title="Google Cloud Platform (GCP)" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="Terraform" title="Terraform" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" title="Nginx" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" title="Cloudflare" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=workers&theme=dark" alt="Cloudflare Workers" title="Cloudflare Workers" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" title="Firebase" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=sentry&theme=dark" alt="Sentry" title="Sentry" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" alt="Prometheus" title="Prometheus" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=grafana&theme=dark" alt="Grafana" title="Grafana" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" title="GitHub Actions" width="44" height="44" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" width="44" height="44" />
 
 </div>
 
