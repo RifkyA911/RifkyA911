@@ -8,6 +8,7 @@
 </p>
 
 <h1 align="center">👋 Rifky Akhmad F.</h1>
+<p align="center"><b>Software Engineer | System Architect | AI Implementor</b></p>
 
 <p align="center"><i>Hey there! Welcome to my corner of the internet — grab a coffee ☕ and stay a while.</i></p>
 
