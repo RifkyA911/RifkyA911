@@ -1,74 +1,50 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b2/87/6f/b2876f8a04eed3c9419856e403b014c0.gif" width="200" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ2Y4NXFhcTRmdWE3ZDNreDZxMmFzOWJ3enBwdXNhOHEyNzR0eng1biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/V4ErRLRQG2lfKOjIht/giphy.gif" width="200" />
-</p>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/86cea5baf4b18e7ab1328444851754dff9eee5e03ee1fa5fc4b07b58a557134b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6636686e68486b6b7338626b346a776a68332f67697068792e676966" width="200" />
-</p>
-
-<h1 align="center">👋 Rifky Akhmad F.</h1>
-
-<p align="center"><i>Hey there! Welcome to my corner of the internet — grab a coffee ☕ and stay a while.</i></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Coffee%20First-6F4E37?style=flat-square&logo=buy-me-a-coffee&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Night%20Owl-1a1a2e?style=flat-square&logo=starship&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Team%20Player-2ea44f?style=flat-square&logo=groupme&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Problem%20Solver-ff4500?style=flat-square&logo=testin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Brainstormer-8A2BE2?style=flat-square&logo=livechat&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Architecture-0052CC?style=flat-square&logo=diagramsdotnet&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:1e293b,80:3b82f6,100:60a5fa&height=220&section=header&text=Rifky%20Akhmad%20F.&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Systems%20Architecture%20%E2%80%A2%20Full-Stack%20Engineering%20%E2%80%A2%20AI%20Platforms&descSize=16&descAlignY=62" width="100%" alt="Rifky Akhmad F. Banner" />
+</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+  <a href="https://rifkya911.github.io"><img src="https://img.shields.io/badge/Live%20Portfolio-rifkya911.github.io-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/RifkyA911"><img src="https://img.shields.io/badge/GitHub-RifkyA911-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rifkya911/"><img src="https://img.shields.io/badge/LinkedIn-Rifky%20Akhmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rifkyakhmad911@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br/>
 
-> *"The beautiful thing about learning is that nobody can take it away from you."* — **B.B. King**
+<div align="center">
+  <em>"Architecture is the learned game, correct and magnificent, of forms assembled in the light."</em>
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 Executive Summary
 
-Code. Coffee. Repeat. ☕
+Software Engineer & Systems Architect focused on designing low-latency backend services, high-throughput web engines, and autonomous AI-driven systems. Dedicated to clean architectural boundaries, domain-driven data modeling, and end-to-end product delivery.
 
-I'm a programmer who finds clarity in the quiet of late nights 🌙, where distractions fade and the real problem-solving begins. I thrive in **team environments** 🤝 — bouncing ideas during brainstorming sessions 🧠, debating architecture decisions 🏗️, and shipping solutions together.
-
-I think beyond the syntax. **Business mindset** 💼 and **problem-solving** 🔍 drive every line I write. I'm passionate about **architecture & tech design** — figuring out how pieces fit together before writing a single line of code.
-
-I'm fully committed to every project I take on — I don't just write code, I take ownership. I see each feature through from concept to deployment, and I treat every codebase like it's my own.
-
-I actively explore the latest technology developments 🌐 — always keeping up with new frameworks, runtimes, and tools. 🏠 Daily driver: <img src="https://cdn.simpleicons.org/archlinux/1793D1" width="16" /> Arch Linux · ☁️ experienced with VPS deployment & management.
-
-I'm constantly learning 🎯, researching new technologies 🔬, and running **experiments** 🧪 on the side. Whether it's a new framework, a different database, or a weird hardware project — I jump in and figure it out as I go.
-
-🤖 **AI Enthusiast & Integrator** — I experiment with LLMs, prompt engineering, and AI-powered tooling. I believe AI is not just the future — it's the present, and I'm actively building with it.
+* 🏗️ **Architecture & Systems First:** Prioritizing system design, modular layers, and maintainable contracts before writing code. Robust architecture prevents technical debt.
+* ⚡ **High-Performance Runtimes:** Hands-on experience engineering concurrent, memory-safe, and asynchronous systems with **Rust** (`Axum`, `Tokio`), **TypeScript** (`Bun`, `Elysia`, `Hono`), and **Go**.
+* 🤖 **AI Guardrails & Agentic Systems:** Designing practical multi-agent workflows, Model Context Protocol (`MCP`) servers, and real-time RAG guardrail engines.
+* 🚀 **End-to-End Ownership:** Direct ownership from architectural blueprint and database modeling to CI/CD automation, cloud infrastructure, and production deployments.
 
 ---
 
-## 🎯 My Approach
+## 🎯 Engineering Principles
 
-**Build, break, learn, repeat.** I learn fastest by doing — shipping real projects, breaking them intentionally, and fixing them better. Every experiment teaches more than any tutorial ever could.
-
-**Architecture-first.** I plan before I code. Clean system design saves months of refactoring. I think in layers — data, logic, presentation, infrastructure — and make sure each one is solid before moving on.
-
-**Full-spectrum thinking.** I don't stop at my lane. Understanding the backend helps me write better frontend. Knowing deployment helps me design better APIs.
-
-**Technology is a means, not an identity.** I pick the right tool for the problem — not because it's trendy, but because it fits.
+* **Pragmatic Architecture:** Clean abstractions where necessary, zero unnecessary complexity. The best code is maintainable, testable, and purpose-built.
+* **Full-Spectrum Perspective:** Deep understanding of backend runtimes and distributed data flow drives better frontend architecture and API contracts.
+* **Problem-Driven Technology:** Selecting runtimes, databases, and frameworks based on measurable constraints and ergonomics rather than hype.
 
 ---
 
-## 📦 Projects
+## 📦 Featured Projects
 
-Over the years, I've built everything from AI-powered tools to hardware-connected dashboards. Here are some that shaped my journey:
+A curated selection of production architectures, AI platforms, and open-source systems:
 
 <table>
   <tr>
     <th>Project</th>
     <th>Stack</th>
-    <th>What it does</th>
+    <th>Architecture & Capabilities</th>
   </tr>
   <tr>
     <td><b><a href="https://github.com/RifkyA911/NovaSentry">NovaSentry</a></b></td>
@@ -153,9 +129,7 @@ Over the years, I've built everything from AI-powered tools to hardware-connecte
 
 ---
 
-## 🛠️ Tech Stack
-
-From language runtimes to cloud infrastructure — this is the stack I've worked hands-on with across real projects, experiments, and production deployments. Each one taught me something worth keeping.
+## 🛠️ Technology Spectrum
 
 <table>
   <tr>
@@ -265,7 +239,7 @@ From language runtimes to cloud infrastructure — this is the stack I've worked
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/arduino/00878F" width="36" /><br/><sub>Arduino</sub></td>
   </tr>
   <tr>
-    <th colspan="11" align="center" bgcolor="#F5F0FF">Infrastructure, DevOps & Tools</th>
+    <th colspan="11" align="center" bgcolor="#F5F0FF">Infrastructure, Cloud & Systems</th>
   </tr>
   <tr>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/docker/2496ED" width="36" /><br/><sub>Docker</sub></td>
@@ -282,14 +256,13 @@ From language runtimes to cloud infrastructure — this is the stack I've worked
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/sentry/362D59" width="36" /><br/><sub>Sentry</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" /><br/><sub>Firebase</sub></td>
     <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/linux/FCC624" width="36" /><br/><sub>Linux</sub></td>
+    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/cloudflare/F38020" width="36" /><br/><sub>Cloudflare</sub></td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
-
-A quick look at my coding activity, language spread, and contribution patterns across repos:
+## 📊 Analytics & Activity
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RifkyA911&theme=tokyonight" />
@@ -308,10 +281,17 @@ A quick look at my coding activity, language spread, and contribution patterns a
 
 ## 📫 Let's Connect
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Whether you have a question, a collaboration idea, or just want to say hi — feel free to reach out!
+Open to technical collaborations, system architecture consultations, and building cutting-edge software.
 
 <div align="center">
+  <a href="https://rifkya911.github.io"><img src="https://img.shields.io/badge/-Portfolio%20Hub-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="mailto:rifkyakhmad911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rifkya911/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=SPRDsG4AAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,40:1e293b,100:0d1117&height=150&section=footer" width="100%" alt="Footer Wave" />
 </div>
