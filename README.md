@@ -164,35 +164,49 @@ Over the years, I've built everything from AI-powered tools to hardware-connecte
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nestjs,express,laravel,actix,wordpress&theme=dark" />
 </a>
-<br/>
-<sub><i>Also engineering with: <b>Hono.js</b> · <b>ElysiaJS</b> · <b>Gin</b> · <b>CodeIgniter</b></i></sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hono.js-E36002?style=flat-square&logo=hono&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElysiaJS-black?style=flat-square&logo=elysia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
+</p>
 
-<br/><br/>
+<br/>
 
 ### 🗄️ Databases & Streaming Infrastructure
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,prisma,sqlite&theme=dark" />
 </a>
-<br/>
-<sub><i>Also leveraging: <b>ClickHouse</b> · <b>Oracle</b> · <b>SeaORM</b> · <b>Drizzle ORM</b> · <b>Prisma</b></i></sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" />
+  <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
+  <img src="https://img.shields.io/badge/SeaORM-007acc?style=flat-square&logo=rust&logoColor=white" />
+</p>
 
-<br/><br/>
+<br/>
 
 ### 🤖 AI, Machine Learning & Vision
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,raspberrypi,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,threejs,raspberrypi,arduino&theme=dark" />
 </a>
-<br/>
-<sub><i>Specialized in: <b>Multi-Agent Systems</b> · <b>Model Context Protocol (MCP)</b> · <b>RAG Guardrails</b> · <b>MediaPipe Vision</b> · <b>Live2D WebGL</b></i></sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/Multi--Agent%20Swarms-7928CA?style=flat-square" />
+  <img src="https://img.shields.io/badge/MCP%20Server-388BFD?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG%20Guardrails-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/MediaPipe%20Vision-00A67E?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live2D%20WebGL-FF5E97?style=flat-square" />
+</p>
 
-<br/><br/>
+<br/>
 
 ### ☁️ Cloud, DevOps & Monitoring
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,terraform,nginx,cloudflare,linux,firebase,sentry&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,terraform,nginx,cloudflare,linux,firebase,sentry,prometheus,grafana,githubactions&theme=dark" />
 </a>
-<br/>
-<sub><i>Telemetry & Observability: <b>OpenTelemetry</b> · <b>Prometheus</b> · <b>Grafana</b></i></sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
+</p>
 
 </div>
 
