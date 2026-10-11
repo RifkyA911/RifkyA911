@@ -148,65 +148,43 @@ Over the years, I've built everything from AI-powered tools to hardware-connecte
 
 ### 💻 Languages & Core Runtimes
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,rust,go,py,bun,nodejs,cpp,cs,php,dart,kotlin&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,go,py,bun,nodejs,cpp,cs,c,php,dart,kotlin,wasm,bash&theme=dark" />
 </a>
 
 <br/><br/>
 
 ### 🌐 Frontend & App Frameworks
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,vue,nuxtjs,astro,tailwind,bootstrap,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,vue,nuxtjs,astro,tailwind,bootstrap,flutter,threejs,vite,html,css&theme=dark" />
 </a>
 
 <br/><br/>
 
-### ⚙️ Backend Services & Frameworks
+### ⚙️ Backend & API Services
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nestjs,express,laravel,actix,wordpress&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nestjs,express,elysia,actix,laravel,fastapi,django,graphql,postman&theme=dark" />
 </a>
-<p align="center">
-  <img src="https://img.shields.io/badge/Hono.js-E36002?style=flat-square&logo=hono&logoColor=white" />
-  <img src="https://img.shields.io/badge/ElysiaJS-black?style=flat-square&logo=elysia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" />
-</p>
 
-<br/>
+<br/><br/>
 
 ### 🗄️ Databases & Streaming Infrastructure
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,prisma,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq,prisma,sqlite,supabase&theme=dark" />
 </a>
-<p align="center">
-  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" />
-  <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
-  <img src="https://img.shields.io/badge/SeaORM-007acc?style=flat-square&logo=rust&logoColor=white" />
-</p>
 
-<br/>
+<br/><br/>
 
-### 🤖 AI, Machine Learning & Vision
+### 🤖 AI, Machine Learning & Systems
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,threejs,raspberrypi,arduino&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,arduino,raspberrypi,ros&theme=dark" />
 </a>
-<p align="center">
-  <img src="https://img.shields.io/badge/Multi--Agent%20Swarms-7928CA?style=flat-square" />
-  <img src="https://img.shields.io/badge/MCP%20Server-388BFD?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG%20Guardrails-2ea44f?style=flat-square" />
-  <img src="https://img.shields.io/badge/MediaPipe%20Vision-00A67E?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Live2D%20WebGL-FF5E97?style=flat-square" />
-</p>
 
-<br/>
+<br/><br/>
 
-### ☁️ Cloud, DevOps & Monitoring
+### ☁️ Cloud, DevOps & Observability
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,terraform,nginx,cloudflare,linux,firebase,sentry,prometheus,grafana,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,terraform,nginx,cloudflare,workers,linux,firebase,sentry,prometheus,grafana,githubactions,git&theme=dark" />
 </a>
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
-</p>
 
 </div>
 
@@ -214,7 +192,11 @@ Over the years, I've built everything from AI-powered tools to hardware-connecte
 
 ## 📊 GitHub Stats
 
-A quick look at my coding activity, language spread, and contribution patterns across repos:
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+Robust+Systems+Architecture+%E2%9A%A1;Engineering+High-Throughput+Engines+in+Rust+%F0%9F%A6%80;Autonomous+AI+Agents+%26+MCP+Guardrails+%F0%9F%A4%96;Full-Spectrum+Delivery+%E2%80%A2+100%25+Ownership+%F0%9F%9A%80" alt="Looping Typing Animation" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RifkyA911&theme=tokyonight" alt="GitHub Profile Details" />
@@ -223,7 +205,7 @@ A quick look at my coding activity, language spread, and contribution patterns a
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=RifkyA911&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </div>
 
