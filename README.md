@@ -49,6 +49,54 @@ Software Engineer & Systems Architect focused on designing low-latency backend s
 
 ---
 
+## 💻 Terminal Telemetry
+
+```zsh
+$ neofetch --engineer
+       /\_/\         OS: Linux / POSIX Kernel
+      ( o.o )        Host: High-Throughput Concurrent Systems
+       > ^ <         Runtimes: Rust (tokio), Bun (1.2), Go, TypeScript
+                     Core Focus: Distributed Systems, AI Guardrails, Real-Time Web
+                     Design Rule: Architecture first. Clean boundaries. Zero slop.
+                     Fuel: Double Shot Espresso ☕
+                     Status: Architecting resilient systems & shipping open-source 🚀
+```
+
+---
+
+## 🔬 The Engineering Lab (Current R&D & Experiments)
+
+Beyond production apps, I use this space to stress-test architectural hypotheses, benchmark runtimes, and push the limits of edge computing:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Autonomous Agent Swarms & MCP</h4>
+      <p>Designing deterministic evaluation loops using the <b>Model Context Protocol (MCP)</b>. Exploring how local small language models (SLMs) can orchestrate tools safely without hallucinations in high-stakes environments.</p>
+      <sub><b>Focus:</b> Agentic guardrails · Local vector search · Zero-trust tool execution</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🦀 Async Concurrency & Sub-ms Latency</h4>
+      <p>Benchmarking asynchronous runtime actors in <b>Rust (Tokio)</b> and <b>Go</b>. Profiling thread-safe message passing, zero-copy packet parsing, and memory safety guarantees under peak connection load.</p>
+      <sub><b>Focus:</b> Tokio MPSC · SIMD acceleration · Minimal memory footprints</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>👁️ Client-Side Vision & WebGL Pipelines</h4>
+      <p>Pioneering <b>100% on-device neural inference</b> in the browser via WebAssembly & WebGPU. Running real-time computer vision and 3D/Live2D avatar rigging without consuming expensive backend GPU compute.</p>
+      <sub><b>Focus:</b> MediaPipe · Three.js · Zero cloud GPU bills</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚡ Zero-Overhead Edge Architecture</h4>
+      <p>Testing serverless micro-runtimes (<b>Bun + Elysia</b> and <b>Cloudflare Workers</b>) to deliver globally distributed APIs with sub-15ms Time to First Byte (TTFB) and instant cold starts.</p>
+      <sub><b>Focus:</b> Edge streaming · Global replication · Zero bloat</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📦 Projects
 
 Over the years, I've built everything from AI-powered tools to hardware-connected dashboards. Here are some that shaped my journey:
