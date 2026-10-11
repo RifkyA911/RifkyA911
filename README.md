@@ -32,31 +32,20 @@
 
 ## 🧑‍💻 About Me
 
-Code. Coffee. Repeat. ☕
+Software Engineer & Systems Architect focused on designing low-latency backend services, high-throughput web engines, and autonomous AI-driven systems. Dedicated to clean architectural boundaries, domain-driven data modeling, and end-to-end product delivery.
 
-I'm a programmer who finds clarity in the quiet of late nights 🌙, where distractions fade and the real problem-solving begins. I thrive in **team environments** 🤝 — bouncing ideas during brainstorming sessions 🧠, debating architecture decisions 🏗️, and shipping solutions together.
-
-I think beyond the syntax. **Business mindset** 💼 and **problem-solving** 🔍 drive every line I write. I'm passionate about **architecture & tech design** — figuring out how pieces fit together before writing a single line of code.
-
-I'm fully committed to every project I take on — I don't just write code, I take ownership. I see each feature through from concept to deployment, and I treat every codebase like it's my own.
-
-I actively explore the latest technology developments 🌐 — always keeping up with new frameworks, runtimes, and tools, with practical experience across Linux environments, cloud, and VPS deployment.
-
-I'm constantly learning 🎯, researching new technologies 🔬, and running **experiments** 🧪 on the side. Whether it's a new framework, a different database, or a weird hardware project — I jump in and figure it out as I go.
-
-🤖 **AI Enthusiast & Integrator** — I experiment with LLMs, prompt engineering, and AI-powered tooling. I believe AI is not just the future — it's the present, and I'm actively building with it.
+* 🏗️ **Architecture & Systems First:** Prioritizing system design, modular layers, and maintainable contracts before writing code. Robust architecture prevents technical debt.
+* ⚡ **High-Performance Runtimes:** Hands-on experience engineering concurrent, memory-safe, and asynchronous systems with **Rust** (`Axum`, `Tokio`), **TypeScript** (`Bun`, `Elysia`, `Hono`), and **Go**.
+* 🤖 **AI Guardrails & Agentic Systems:** Designing practical multi-agent workflows, Model Context Protocol (`MCP`) servers, and real-time RAG guardrail engines.
+* 🚀 **End-to-End Ownership:** Direct ownership from architectural blueprint and database modeling to CI/CD automation, cloud infrastructure, and production deployments.
 
 ---
 
-## 🎯 My Approach
+## 🎯 Engineering Principles
 
-**Build, break, learn, repeat.** I learn fastest by doing — shipping real projects, breaking them intentionally, and fixing them better. Every experiment teaches more than any tutorial ever could.
-
-**Architecture-first.** I plan before I code. Clean system design saves months of refactoring. I think in layers — data, logic, presentation, infrastructure — and make sure each one is solid before moving on.
-
-**Full-spectrum thinking.** I don't stop at my lane. Understanding the backend helps me write better frontend. Knowing deployment helps me design better APIs.
-
-**Technology is a means, not an identity.** I pick the right tool for the problem — not because it's trendy, but because it fits.
+* **Pragmatic Architecture:** Clean abstractions where necessary, zero unnecessary complexity. The best code is maintainable, testable, and purpose-built.
+* **Full-Spectrum Perspective:** Deep understanding of backend runtimes and distributed data flow drives better frontend architecture and API contracts.
+* **Problem-Driven Technology:** Selecting runtimes, databases, and frameworks based on measurable constraints, throughput, and ergonomics rather than hype.
 
 ---
 
@@ -153,137 +142,59 @@ Over the years, I've built everything from AI-powered tools to hardware-connecte
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Spectrum
 
-From language runtimes to cloud infrastructure — this is the stack I've worked hands-on with across real projects, experiments, and production deployments. Each one taught me something worth keeping.
+<div align="center">
 
-<table>
-  <tr>
-    <th colspan="11" align="center" bgcolor="#F5F0FF">Languages</th>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="36" /><br/><sub>TypeScript</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="36" /><br/><sub>JavaScript</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/php/777BB4" width="36" /><br/><sub>PHP</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/go/00ADD8" width="36" /><br/><sub>Go</sub></td>
-    <td align="center" bgcolor="#F5F0FF">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/rust/CE422B">
-        <img src="https://cdn.simpleicons.org/rust" width="36" />
-      </picture><br/><sub>Rust</sub>
-    </td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/python/3776AB" width="36" /><br/><sub>Python</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="36" /><br/><sub>C++</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/dotnet/512BD4" width="36" /><br/><sub>C#</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="36" /><br/><sub>Dart</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/kotlin/7F52FF" width="36" /><br/><sub>Kotlin</sub></td>
-  </tr>
-  <tr>
-    <th colspan="11" align="center" bgcolor="#F5F0FF">Frontend & Mobile</th>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#F5F0FF">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF">
-        <img src="https://cdn.simpleicons.org/nextdotjs" width="36" />
-      </picture><br/><sub>Next.js</sub>
-    </td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/react/61DAFB" width="36" /><br/><sub>React</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/vuedotjs/4FC08D" width="36" /><br/><sub>Vue</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/nuxt/00DC82" width="36" /><br/><sub>Nuxt</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/svelte/FF3E00" width="36" /><br/><sub>Svelte</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/astro/BC52EE" width="36" /><br/><sub>Astro</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="36" /><br/><sub>Tailwind</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="36" /><br/><sub>Bootstrap</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/flutter/02569B" width="36" /><br/><sub>Flutter</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="36" /><br/><sub>React Native</sub></td>
-  </tr>
-  <tr>
-    <th colspan="11" align="center" bgcolor="#F5F0FF">Backend, Runtime & CMS</th>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/laravel/FF2D20" width="36" /><br/><sub>Laravel</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="36" /><br/><sub>Node.js</sub></td>
-    <td align="center" bgcolor="#F5F0FF">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://bun.sh/logo.svg">
-        <img src="https://bun.sh/logo.svg" width="36" />
-      </picture><br/><sub>Bun</sub>
-    </td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/hono/E36002" width="36" /><br/><sub>Hono</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://elysiajs.com/assets/elysia.svg" width="36" /><br/><sub>Elysia</sub></td>
-    <td align="center" bgcolor="#F5F0FF">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF">
-        <img src="https://cdn.simpleicons.org/express" width="36" />
-      </picture><br/><sub>Express</sub>
-    </td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/nestjs/E0234E" width="36" /><br/><sub>NestJS</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/codeigniter/EF4223" width="36" /><br/><sub>CI</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/wordpress/21759B" width="36" /><br/><sub>WordPress</sub></td>
-    <td align="center" bgcolor="#F5F0FF">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/actix/FFFFFF">
-        <img src="https://cdn.simpleicons.org/actix" width="36" />
-      </picture><br/><sub>Actix</sub>
-    </td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="36" /><br/><sub>Gin</sub></td>
-  </tr>
-  <tr>
-    <th colspan="11" align="center" bgcolor="#F5F0FF">Database & Message Broker</th>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#F5F0FF">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/FFFFFF">
-        <img src="https://cdn.simpleicons.org/mysql/4479A1" width="36" />
-      </picture><br/><sub>MySQL</sub>
-    </td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/mongodb/47A248" width="36" /><br/><sub>MongoDB</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="36" /><br/><sub>PostgreSQL</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="36" /><br/><sub>Oracle</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/clickhouse/FFCC01" width="36" /><br/><sub>ClickHouse</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/redis/FF4438" width="36" /><br/><sub>Redis</sub></td>
-    <td align="center" bgcolor="#F5F0FF">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/apachekafka/FFFFFF">
-        <img src="https://cdn.simpleicons.org/apachekafka" width="36" />
-      </picture><br/><sub>Kafka</sub>
-    </td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" width="36" /><br/><sub>RabbitMQ</sub></td>
-  </tr>
-  <tr>
-    <th colspan="11" align="center" bgcolor="#F5F0FF">AI, ML & IoT</th>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="36" /><br/><sub>TensorFlow</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="36" /><br/><sub>PyTorch</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="36" /><br/><sub>OpenCV</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="36" /><br/><sub>scikit-learn</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="36" /><br/><sub>Raspberry Pi</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/mqtt/660066" width="36" /><br/><sub>MQTT</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/arduino/00878F" width="36" /><br/><sub>Arduino</sub></td>
-  </tr>
-  <tr>
-    <th colspan="11" align="center" bgcolor="#F5F0FF">Infrastructure, DevOps & Tools</th>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/docker/2496ED" width="36" /><br/><sub>Docker</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="36" /><br/><sub>AWS</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="36" /><br/><sub>GCP</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/terraform/844FBA" width="36" /><br/><sub>Terraform</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/nginx/009639" width="36" /><br/><sub>Nginx</sub></td>
-    <td align="center" bgcolor="#F5F0FF">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/opentelemetry/FFFFFF">
-        <img src="https://cdn.simpleicons.org/opentelemetry" width="36" />
-      </picture><br/><sub>OpenTelemetry</sub>
-    </td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/sentry/362D59" width="36" /><br/><sub>Sentry</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="36" /><br/><sub>Firebase</sub></td>
-    <td align="center" bgcolor="#F5F0FF"><img src="https://cdn.simpleicons.org/linux/FCC624" width="36" /><br/><sub>Linux</sub></td>
-  </tr>
-</table>
+### 💻 Languages & Core Runtimes
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,go,py,bun,nodejs,cpp,cs,php,dart,kotlin&theme=dark" />
+</a>
+
+<br/><br/>
+
+### 🌐 Frontend & App Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,svelte,vue,nuxtjs,astro,tailwind,bootstrap,flutter&theme=dark" />
+</a>
+
+<br/><br/>
+
+### ⚙️ Backend Services & Frameworks
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nestjs,express,laravel,actix,wordpress&theme=dark" />
+</a>
+<br/>
+<sub><i>Also engineering with: <b>Hono.js</b> · <b>ElysiaJS</b> · <b>Gin</b> · <b>CodeIgniter</b></i></sub>
+
+<br/><br/>
+
+### 🗄️ Databases & Streaming Infrastructure
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka&theme=dark" />
+</a>
+<br/>
+<sub><i>Also leveraging: <b>ClickHouse</b> · <b>Oracle</b> · <b>SeaORM</b> · <b>Drizzle ORM</b> · <b>Prisma</b></i></sub>
+
+<br/><br/>
+
+### 🤖 AI, Machine Learning & Vision
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,raspberrypi,arduino&theme=dark" />
+</a>
+<br/>
+<sub><i>Specialized in: <b>Multi-Agent Systems</b> · <b>Model Context Protocol (MCP)</b> · <b>RAG Guardrails</b> · <b>MediaPipe Vision</b> · <b>Live2D WebGL</b></i></sub>
+
+<br/><br/>
+
+### ☁️ Cloud, DevOps & Monitoring
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,terraform,nginx,cloudflare,linux,firebase,sentry&theme=dark" />
+</a>
+<br/>
+<sub><i>Telemetry & Observability: <b>OpenTelemetry</b> · <b>Prometheus</b> · <b>Grafana</b></i></sub>
+
+</div>
 
 ---
 
