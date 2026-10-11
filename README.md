@@ -203,16 +203,21 @@ Over the years, I've built everything from AI-powered tools to hardware-connecte
 A quick look at my coding activity, language spread, and contribution patterns across repos:
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RifkyA911&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RifkyA911&theme=tokyonight" alt="GitHub Profile Details" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RifkyA911&theme=tokyonight" width="700" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RifkyA911&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RifkyA911&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RifkyA911&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=RifkyA911&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RifkyA911&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RifkyA911&theme=tokyonight" height="165" alt="Repos Per Language" />
 </div>
 
 ---
