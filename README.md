@@ -1,48 +1,32 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/b2/87/6f/b2876f8a04eed3c9419856e403b014c0.gif" width="200" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ2Y4NXFhcTRmdWE3ZDNreDZxMmFzOWJ3enBwdXNhOHEyNzR0eng1biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/V4ErRLRQG2lfKOjIht/giphy.gif" width="200" />
-</p>
-
-<p align="center">
-  <img src="https://camo.githubusercontent.com/86cea5baf4b18e7ab1328444851754dff9eee5e03ee1fa5fc4b07b58a557134b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6636686e68486b6b7338626b346a776a68332f67697068792e676966" width="200" />
-</p>
-
-<h1 align="center">👋 Rifky Akhmad F.</h1>
-<p align="center"><b>Software Engineer | System Architect | AI Implementor</b></p>
-
-<p align="center"><i>Hey there! Welcome to my corner of the internet — grab a coffee ☕ and stay a while.</i></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Coffee%20First-6F4E37?style=flat-square&logo=buy-me-a-coffee&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Night%20Owl-1a1a2e?style=flat-square&logo=starship&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Team%20Player-2ea44f?style=flat-square&logo=groupme&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Problem%20Solver-ff4500?style=flat-square&logo=testin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Brainstormer-8A2BE2?style=flat-square&logo=livechat&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Architecture-0052CC?style=flat-square&logo=diagramsdotnet&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e293b,70:2563eb,100:60a5fa&height=220&section=header&text=Rifky%20Akhmad%20Fernanda&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20System%20Architect%20%7C%20AI%20Implementor&descSize=16&descAlignY=62" width="100%" alt="Header Banner" />
+</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+  <a href="https://rifkya911.github.io"><img src="https://img.shields.io/badge/Live%20Portfolio-rifkya911.github.io-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rifkya911/"><img src="https://img.shields.io/badge/LinkedIn-in%2Frifkya911-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://scholar.google.com/citations?user=SPRDsG4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Status-Architecting%20%26%20Shipping-success?style=for-the-badge" />
 </div>
 
 <br/>
 
-> *"The beautiful thing about learning is that nobody can take it away from you."* — **B.B. King**
+> *"Simplicity is prerequisite for reliability."* - **Edsger W. Dijkstra**
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Executive Summary
 
-Software Engineer & Systems Architect focused on designing low-latency backend services, high-throughput web engines, and autonomous AI-driven systems. Dedicated to clean architectural boundaries, domain-driven data modeling, and end-to-end product delivery.
+I am a **Software Engineer & System Architect** focused on high-throughput backend runtimes, distributed communication protocols, and agentic AI security guardrails. 
 
-* 🏗️ **Architecture & Systems First:** Prioritizing system design, modular layers, and maintainable contracts before writing code. Robust architecture prevents technical debt.
-* ⚡ **High-Performance Runtimes:** Hands-on experience engineering concurrent, memory-safe, and asynchronous systems with **Rust** (`Axum`, `Tokio`), **TypeScript** (`Bun`, `Elysia`, `Hono`), and **Go**.
-* 🤖 **AI Guardrails & Agentic Systems:** Designing practical multi-agent workflows, Model Context Protocol (`MCP`) servers, and real-time RAG guardrail engines.
-* 🚀 **End-to-End Ownership:** Direct ownership from architectural blueprint and database modeling to CI/CD automation, cloud infrastructure, and production deployments.
+* 🏛️ **Cum Laude Informatics Graduate:** National Competency Standard certified (**BNSP SKKNI**), registered Intellectual Property holder (**DJKI Kemenkumham RI**), and academic presenter at SITASI 2021.
+* 🦀 **Systems & Concurrency:** Deep experience in asynchronous **Rust (Tokio / Axum)**, sub-millisecond **Go reverse proxies**, and high-throughput **Bun / ElysiaJS** services.
+* 🤖 **Applied AI & Guardrails:** Architecting deterministic agent workflows with the **Model Context Protocol (MCP)**, local semantic embeddings (pgvector), sub-35ms prompt evaluation, and autonomous database gatekeeping.
+* 🎯 **Full-Spectrum Ownership:** Bridging the gap between kernel-level low-latency mechanics and clean, accessible user experiences.
 
 ---
 
-## 🎯 Engineering Principles
+## 🎯 Architectural Philosophy
 
 * **Pragmatic Architecture:** Clean abstractions where necessary, zero unnecessary complexity. The best code is maintainable, testable, and purpose-built.
 * **Full-Spectrum Perspective:** Deep understanding of backend runtimes and distributed data flow drives better frontend architecture and API contracts.
@@ -84,89 +68,74 @@ Beyond production apps, I use this space to stress-test architectural hypotheses
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>👁️ Client-Side Vision & WebGL Pipelines</h4>
-      <p>Pioneering <b>100% on-device neural inference</b> in the browser via WebAssembly & WebGPU. Running real-time computer vision and 3D/Live2D avatar rigging without consuming expensive backend GPU compute.</p>
-      <sub><b>Focus:</b> MediaPipe · Three.js · Zero cloud GPU bills</sub>
-    </td>
-    <td width="50%" valign="top">
       <h4>⚡ Zero-Overhead Edge Architecture</h4>
       <p>Testing serverless micro-runtimes (<b>Bun + Elysia</b> and <b>Cloudflare Workers</b>) to deliver globally distributed APIs with sub-15ms Time to First Byte (TTFB) and instant cold starts.</p>
       <sub><b>Focus:</b> Edge streaming · Global replication · Zero bloat</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📦 Dense Vector Retrieval & Hybrid Search</h4>
+      <p>Building high-speed CLI search and chunk ranking combining <b>BM25</b> sparse indexing with dense vector embeddings for sub-10ms developer pattern retrieval.</p>
+      <sub><b>Focus:</b> pgvector · Hybrid ranking · Zero overhead CLI</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📦 Projects
+## 📦 Featured Engineering Systems & Projects
 
-Over the years, I've built everything from AI-powered tools to hardware-connected dashboards. Here are some that shaped my journey:
+Production systems, agentic AI frameworks, hardware telemetry, and distributed architectures:
 
 <table>
   <tr>
     <th>Project</th>
     <th>Stack</th>
-    <th>What it does</th>
+    <th>Architecture & Capabilities</th>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RifkyA911/novapilot-ai">novapilot-ai</a></b></td>
+    <td>TypeScript · Dual-DB MCP · PostgreSQL</td>
+    <td>Autonomous ChatOps & Human-in-the-Loop Enterprise Database Gatekeeper with Dual-DB MCP Architecture and audit containment</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/RifkyA911/NovaSentry">NovaSentry</a></b></td>
-    <td>Rust · Axum · RAG · Tailwind</td>
-    <td>Autonomous Multi-Agent AI RAG Security Sentry & Guardrail Engine with SOC Sentinel Dashboard</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/RifkyA911/mirunova-live">mirunova-live</a></b></td>
-    <td>SvelteKit · Bun · Live2D · Three.js</td>
-    <td>Next-Gen Web Live2D & 3D Avatar Vision Tracker • 100% Client-Side WebGL</td>
+    <td>Rust · Axum · Tokio · Vector RAG</td>
+    <td>Autonomous AI RAG Security Sentry & Guardrail Engine in Rust intercepting prompt injections with sub-35ms evaluation latency and MCP endpoints</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/RifkyA911/TapVote-AI">TapVote-AI</a></b></td>
-    <td>TypeScript · MCP · RFID · SSE</td>
-    <td>AI-assisted e-voting kiosk & real-time election monitoring system with dual-ballot booth</td>
+    <td>TypeScript · Mifare RFID · SSE · MCP</td>
+    <td>AI-assisted dual-ballot e-voting kiosk featuring Mifare ISO 14443A hardware authentication, real-time SSE tabulation, and cryptographic MCP audit</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RifkyA911/9router-playground">9router</a></b></td>
+    <td>Go · Reverse Proxy · SSE · gRPC</td>
+    <td>High-throughput reverse proxy and edge routing daemon in Go with active circuit breaking, sub-1.8ms latency, and streaming playground</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RifkyA911/NovaFinance-Backend">NovaFinance</a></b></td>
+    <td>Bun · ElysiaJS · pgvector · PostgreSQL</td>
+    <td>Ultra-fast multi-currency financial bookkeeping API with pgvector semantic transaction clustering and ACID double-entry queues</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RifkyA911">arag-cli</a></b></td>
+    <td>TypeScript · Vector Search · BM25 Hybrid</td>
+    <td>High-speed developer CLI for semantic retrieval, agent knowledge indexing, and hybrid BM25 dense-vector search with sub-10ms chunk ranking</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RifkyA911/Inventory-Web-App-IBMAETER">IBMAETER Web</a></b></td>
+    <td>PHP · MySQL · Hak Cipta DJKI</td>
+    <td>Integrated warehouse inventory and worker management system formally protected under DJKI Kemenkumham RI Copyright (EC00202154284)</td>
+  </tr>
+  <tr>
+    <td><b><a href="https://github.com/RifkyA911/PawFec-Company-Profile">PawFec Care</a></b></td>
+    <td>Astro 5 · React 19 · Tailwind CSS · GSAP</td>
+    <td>Modern pet care company platform showcasing interactive GSAP micro-animations, accessible shadcn components, and Astro SSR</td>
   </tr>
   <tr>
     <td><b><a href="https://github.com/RifkyA911/Momentum-Habit-Tracker-Plan">Momentum</a></b></td>
     <td>Nuxt 4 · Groq LLaMA · TypeScript</td>
-    <td>AI-powered habit tracker with behavioral analytics — uses LLM reasoning to detect patterns and suggest habit adjustments in real time</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/RifkyA911/agy-cli-account-swarm">agy-cli-account-swarm</a></b></td>
-    <td>TypeScript · CLI · MCP</td>
-    <td>Minimalist desktop orchestrator & multi-account manager for Google Antigravity CLI (agy)</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/RifkyA911/NovaFinance-Frontend">NovaFinance Platform</a></b></td>
-    <td>Next.js 16 · ElysiaJS · Bun · PostgreSQL</td>
-    <td>Modern financial management & AI-driven bookkeeping platform (<a href="https://github.com/RifkyA911/NovaFinance-Frontend">Frontend</a> · <a href="https://github.com/RifkyA911/NovaFinance-Backend">Backend</a>)</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/RifkyA911/Partner-Flow-FE">Partner-Flow</a></b></td>
-    <td>Next.js · NestJS 11 · Prisma · Redis</td>
-    <td>Modern referral partner platform with multi-level referral system (<a href="https://github.com/RifkyA911/Partner-Flow-FE">Frontend</a> · <a href="https://github.com/RifkyA911/Partner-Flow-Be">Backend</a>)</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/RifkyA911/NovaStack-Next.JS-16-Project-Engine">Next.JS 16 Project Engine</a></b></td>
-    <td>Next.js · React 19 · TanStack</td>
-    <td>Production-ready starter with Turbopack, server actions, and TanStack Query — optimized for rapid development</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/RifkyA911/PawFec-Company-Profile">PawFec Care</a></b></td>
-    <td>Astro 5 · React 19 · Tailwind v4 · GSAP</td>
-    <td>Modern pet care company profile website with smooth GSAP animations and shadcn/ui</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/RifkyA911/Simple-Ticketing-System-Rust-Native">Simple Ticketing System</a></b></td>
-    <td>Rust · Tokio · SQLx · PostgreSQL</td>
-    <td>High-performance async ticket management API — leverages Rust's concurrency model for handling high throughput</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/RifkyA911/Simple-Inventory-API-Go-Native">Inventory API</a></b></td>
-    <td>Go · MySQL · JWT</td>
-    <td>RESTful inventory management with JWT auth, paginated reporting, and clean layered architecture</td>
-  </tr>
-  <tr>
-    <td><b><a href="https://github.com/RifkyA911/Simple-Gemini-Chatbot-API">Gemini Chatbot</a></b></td>
-    <td>Bun · Express · Gemini AI</td>
-    <td>Google Gemini AI agent with real-time streaming responses — built for low-latency conversation handling and tool integration</td>
+    <td>AI-powered habit tracker with behavioral analytics: uses LLM reasoning to detect patterns and suggest habit adjustments in real time</td>
   </tr>
 </table>
 
@@ -179,7 +148,7 @@ Over the years, I've built everything from AI-powered tools to hardware-connecte
 | [**9router-playground**](https://github.com/RifkyA911/9router-playground) | SvelteKit · SSE | Glassmorphic Web UI & Playground for 9Router local AI Gateway |
 | [**Mobee-API-Client**](https://github.com/RifkyA911/Mobee-API-Client) | Svelte 5 · shadcn | Interactive web dashboard & client GUI for Mobee Open API |
 | [**Realtime-E-Vote**](https://github.com/RifkyA911/Realtime-E-Vote) | CodeIgniter 3 · WebSockets | Real-time e-voting application with RFID/NFC authentication |
-| [**Real-ESRGAN-Video-Upscaling-Automation**](https://github.com/RifkyA911/Real-ESRGAN-Video-Upscaling-Automation) | Python · AI | Automated video upscaling with Real-ESRGAN for Kaggle / Colab |
+| [**Partner-Flow**](https://github.com/RifkyA911/Partner-Flow-FE) | Next.js · NestJS 11 · Redis | Modern referral partner platform with multi-level reward engine |
 | [**Top-Up-Games-with-POS-System**](https://github.com/RifkyA911/Top-Up-Games-with-POS-System) | React · TypeScript | Game top-up payment system with integrated POS interface |
 | [**Simple-Pagination-Server-Side**](https://github.com/RifkyA911/Simple-Pagination-Server-Side) | Hono.js · Bun | Server-side pagination API built with Hono and Bun runtime |
 | [**Management-Inventory-Golang-Native**](https://github.com/RifkyA911/Management-Inventory-Golang-Native) | Go Standard Library | Clean architecture inventory management built in pure Go stdlib |
@@ -197,92 +166,92 @@ Over the years, I've built everything from AI-powered tools to hardware-connecte
 
 ### 💻 Languages & Core Runtimes
 <img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" title="TypeScript" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Golang" title="Golang" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=bun&theme=dark" alt="Bun" title="Bun" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" title="C#" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" title="PHP" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" title="Dart" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=wasm&theme=dark" alt="WebAssembly" title="WebAssembly" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash / Shell" title="Bash / Shell" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=rust&theme=dark" alt="Rust" title="Rust" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=go&theme=dark" alt="Golang" title="Golang" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=bun&theme=dark" alt="Bun" title="Bun" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" title="C++" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="C#" title="C#" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" title="PHP" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart" title="Dart" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=kotlin&theme=dark" alt="Kotlin" title="Kotlin" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=wasm&theme=dark" alt="WebAssembly" title="WebAssembly" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash / Shell" title="Bash / Shell" width="44" height="44" />
 
 <br/><br/>
 
 ### 🌐 Frontend & App Frameworks
 <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" title="Next.js" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=svelte&theme=dark" alt="Svelte" title="Svelte" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js" title="Vue.js" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" alt="Nuxt.js" title="Nuxt.js" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="Astro" title="Astro" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" title="Bootstrap" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" title="Flutter" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js" title="Three.js" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" title="Vite" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" title="React" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=svelte&theme=dark" alt="Svelte" title="Svelte" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=vue&theme=dark" alt="Vue.js" title="Vue.js" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=nuxtjs&theme=dark" alt="Nuxt.js" title="Nuxt.js" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=astro&theme=dark" alt="Astro" title="Astro" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" title="Tailwind CSS" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap" title="Bootstrap" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=flutter&theme=dark" alt="Flutter" title="Flutter" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=threejs&theme=dark" alt="Three.js" title="Three.js" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=vite&theme=dark" alt="Vite" title="Vite" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" title="HTML5" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" title="CSS3" width="44" height="44" />
 
 <br/><br/>
 
 ### ⚙️ Backend & API Services
 <img src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="NestJS" title="NestJS" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" title="Express.js" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=elysia&theme=dark" alt="ElysiaJS" title="ElysiaJS" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=actix&theme=dark" alt="Actix Web" title="Actix Web" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" title="Laravel" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" title="Django" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="GraphQL" title="GraphQL" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" title="Express.js" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=elysia&theme=dark" alt="ElysiaJS" title="ElysiaJS" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=actix&theme=dark" alt="Actix Web" title="Actix Web" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" title="Laravel" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" title="FastAPI" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" title="Django" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=graphql&theme=dark" alt="GraphQL" title="GraphQL" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" title="Postman" width="44" height="44" />
 
 <br/><br/>
 
 ### 🗄️ Databases & Streaming Infrastructure
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" title="PostgreSQL" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Apache Kafka" title="Apache Kafka" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" alt="RabbitMQ" title="RabbitMQ" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="Prisma ORM" title="Prisma ORM" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" title="SQLite" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" title="Supabase" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=redis&theme=dark" alt="Redis" title="Redis" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=kafka&theme=dark" alt="Apache Kafka" title="Apache Kafka" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" alt="RabbitMQ" title="RabbitMQ" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="Prisma ORM" title="Prisma ORM" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" title="SQLite" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" title="Supabase" width="44" height="44" />
 
 <br/><br/>
 
 ### 🤖 AI, Machine Learning & Systems
 <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch" title="PyTorch" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" title="OpenCV" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" title="Arduino" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" title="Raspberry Pi" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=ros&theme=dark" alt="Robot Operating System (ROS)" title="Robot Operating System (ROS)" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" alt="TensorFlow" title="TensorFlow" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="OpenCV" title="OpenCV" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Arduino" title="Arduino" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=raspberrypi&theme=dark" alt="Raspberry Pi" title="Raspberry Pi" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=ros&theme=dark" alt="Robot Operating System (ROS)" title="Robot Operating System (ROS)" width="44" height="44" />
 
 <br/><br/>
 
 ### ☁️ Cloud, DevOps & Observability
 <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" title="Docker" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" title="Kubernetes" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="Amazon Web Services (AWS)" title="Amazon Web Services (AWS)" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud Platform (GCP)" title="Google Cloud Platform (GCP)" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="Terraform" title="Terraform" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" title="Nginx" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" title="Cloudflare" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=workers&theme=dark" alt="Cloudflare Workers" title="Cloudflare Workers" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" title="Firebase" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=sentry&theme=dark" alt="Sentry" title="Sentry" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" alt="Prometheus" title="Prometheus" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=grafana&theme=dark" alt="Grafana" title="Grafana" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" title="GitHub Actions" width="44" height="44" />
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" title="Kubernetes" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="Amazon Web Services (AWS)" title="Amazon Web Services (AWS)" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Google Cloud Platform (GCP)" title="Google Cloud Platform (GCP)" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="Terraform" title="Terraform" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" title="Nginx" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" alt="Cloudflare" title="Cloudflare" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=workers&theme=dark" alt="Cloudflare Workers" title="Cloudflare Workers" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" title="Linux" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" title="Firebase" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=sentry&theme=dark" alt="Sentry" title="Sentry" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=prometheus&theme=dark" alt="Prometheus" title="Prometheus" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=grafana&theme=dark" alt="Grafana" title="Grafana" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" title="GitHub Actions" width="44" height="44" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git" width="44" height="44" />
 
 </div>
 
@@ -318,7 +287,7 @@ Over the years, I've built everything from AI-powered tools to hardware-connecte
 
 ## 📫 Let's Connect
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Whether you have a question, a collaboration idea, or just want to say hi — feel free to reach out!
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Whether you have a question, a collaboration idea, or just want to say hi - feel free to reach out!
 
 <div align="center">
   <a href="https://rifkya911.github.io"><img src="https://img.shields.io/badge/-Portfolio%20Hub-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
