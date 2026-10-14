@@ -1,32 +1,48 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e293b,70:2563eb,100:60a5fa&height=220&section=header&text=Rifky%20Akhmad%20Fernanda&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20System%20Architect%20%7C%20AI%20Implementor&descSize=16&descAlignY=62" width="100%" alt="Header Banner" />
-</div>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b2/87/6f/b2876f8a04eed3c9419856e403b014c0.gif" width="200" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZ2Y4NXFhcTRmdWE3ZDNreDZxMmFzOWJ3enBwdXNhOHEyNzR0eng1biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/V4ErRLRQG2lfKOjIht/giphy.gif" width="200" />
+</p>
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/86cea5baf4b18e7ab1328444851754dff9eee5e03ee1fa5fc4b07b58a557134b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6636686e68486b6b7338626b346a776a68332f67697068792e676966" width="200" />
+</p>
+
+<h1 align="center">👋 Rifky Akhmad F.</h1>
+<p align="center"><b>Software Engineer | System Architect | AI Implementor</b></p>
+
+<p align="center"><i>Hey there! Welcome to my corner of the internet: grab a coffee ☕ and stay a while.</i></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Coffee%20First-6F4E37?style=flat-square&logo=buy-me-a-coffee&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Night%20Owl-1a1a2e?style=flat-square&logo=starship&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Team%20Player-2ea44f?style=flat-square&logo=groupme&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Problem%20Solver-ff4500?style=flat-square&logo=testin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Brainstormer-8A2BE2?style=flat-square&logo=livechat&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Architecture-0052CC?style=flat-square&logo=diagramsdotnet&logoColor=white" />
+</p>
 
 <div align="center">
-  <a href="https://rifkya911.github.io"><img src="https://img.shields.io/badge/Live%20Portfolio-rifkya911.github.io-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rifkya911/"><img src="https://img.shields.io/badge/LinkedIn-in%2Frifkya911-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://scholar.google.com/citations?user=SPRDsG4AAAAJ&hl=en"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Status-Architecting%20%26%20Shipping-success?style=for-the-badge" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 </div>
 
 <br/>
 
-> *"Simplicity is prerequisite for reliability."* - **Edsger W. Dijkstra**
+> *"The beautiful thing about learning is that nobody can take it away from you."* - **B.B. King**
 
 ---
 
-## 🧑‍💻 Executive Summary
+## 🧑‍💻 About Me
 
-I am a **Software Engineer & System Architect** focused on high-throughput backend runtimes, distributed communication protocols, and agentic AI security guardrails. 
+Software Engineer & Systems Architect focused on designing low-latency backend services, high-throughput web engines, and autonomous AI-driven systems. Dedicated to clean architectural boundaries, domain-driven data modeling, and end-to-end product delivery.
 
-* 🏛️ **Cum Laude Informatics Graduate:** National Competency Standard certified (**BNSP SKKNI**), registered Intellectual Property holder (**DJKI Kemenkumham RI**), and academic presenter at SITASI 2021.
-* 🦀 **Systems & Concurrency:** Deep experience in asynchronous **Rust (Tokio / Axum)**, sub-millisecond **Go reverse proxies**, and high-throughput **Bun / ElysiaJS** services.
-* 🤖 **Applied AI & Guardrails:** Architecting deterministic agent workflows with the **Model Context Protocol (MCP)**, local semantic embeddings (pgvector), sub-35ms prompt evaluation, and autonomous database gatekeeping.
-* 🎯 **Full-Spectrum Ownership:** Bridging the gap between kernel-level low-latency mechanics and clean, accessible user experiences.
+* 🏗️ **Architecture & Systems First:** Prioritizing system design, modular layers, and maintainable contracts before writing code. Robust architecture prevents technical debt.
+* ⚡ **High-Performance Runtimes:** Hands-on experience engineering concurrent, memory-safe, and asynchronous systems with **Rust** (`Axum`, `Tokio`), **TypeScript** (`Bun`, `Elysia`, `Hono`), and **Go**.
+* 🤖 **AI Guardrails & Agentic Systems:** Designing practical multi-agent workflows, Model Context Protocol (`MCP`) servers, and real-time RAG guardrail engines.
+* 🚀 **End-to-End Ownership:** Direct ownership from architectural blueprint and database modeling to CI/CD automation, cloud infrastructure, and production deployments.
 
 ---
 
-## 🎯 Architectural Philosophy
+## 🎯 Engineering Principles
 
 * **Pragmatic Architecture:** Clean abstractions where necessary, zero unnecessary complexity. The best code is maintainable, testable, and purpose-built.
 * **Full-Spectrum Perspective:** Deep understanding of backend runtimes and distributed data flow drives better frontend architecture and API contracts.
@@ -118,22 +134,22 @@ Production systems, agentic AI frameworks, hardware telemetry, and distributed a
     <td>Ultra-fast multi-currency financial bookkeeping API with pgvector semantic transaction clustering and ACID double-entry queues</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/RifkyA911">arag-cli</a></b></td>
+    <td><a href="https://github.com/RifkyA911"><b>arag-cli</b></a></td>
     <td>TypeScript · Vector Search · BM25 Hybrid</td>
     <td>High-speed developer CLI for semantic retrieval, agent knowledge indexing, and hybrid BM25 dense-vector search with sub-10ms chunk ranking</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/RifkyA911/Inventory-Web-App-IBMAETER">IBMAETER Web</a></b></td>
+    <td><a href="https://github.com/RifkyA911/Inventory-Web-App-IBMAETER"><b>IBMAETER Web</b></a></td>
     <td>PHP · MySQL · Hak Cipta DJKI</td>
     <td>Integrated warehouse inventory and worker management system formally protected under DJKI Kemenkumham RI Copyright (EC00202154284)</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/RifkyA911/PawFec-Company-Profile">PawFec Care</a></b></td>
+    <td><a href="https://github.com/RifkyA911/PawFec-Company-Profile"><b>PawFec Care</b></a></td>
     <td>Astro 5 · React 19 · Tailwind CSS · GSAP</td>
     <td>Modern pet care company platform showcasing interactive GSAP micro-animations, accessible shadcn components, and Astro SSR</td>
   </tr>
   <tr>
-    <td><b><a href="https://github.com/RifkyA911/Momentum-Habit-Tracker-Plan">Momentum</a></b></td>
+    <td><a href="https://github.com/RifkyA911/Momentum-Habit-Tracker-Plan"><b>Momentum</b></a></td>
     <td>Nuxt 4 · Groq LLaMA · TypeScript</td>
     <td>AI-powered habit tracker with behavioral analytics: uses LLM reasoning to detect patterns and suggest habit adjustments in real time</td>
   </tr>
@@ -294,10 +310,4 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   <a href="mailto:rifkyakhmad911@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rifkya911/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=SPRDsG4AAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,40:1e293b,100:0d1117&height=150&section=footer" width="100%" alt="Footer Wave" />
 </div>
